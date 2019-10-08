@@ -1,0 +1,2404 @@
+# Translation of Themes - Astra in Japanese
+# This file is distributed under the same license as the Themes - Astra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-08-31 12:20:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Astra\n"
+
+#. Description of the theme
+msgid "Astra is fast, fully customizable & beautiful theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!"
+msgstr "Astra は、ブログ、個人的なポートフォリオ、ビジネスのウェブサイトや WooCommerce storefront に適した高速で、完全にカスタマイズ可能な美しいテーマです。非常に軽量 (フロントエンドで 50KB 未満) であり、比類のない速度を提供しています。SEO を念頭に置いて構築された Astra は、Schema.org コードが統合されており、Native AMP 対応であるため、検索エンジンはあなたのサイトを気に入るはずです。Elementor、Beaver Builder、Visual Composer、SiteOrigin、Diviなどのすべてのページビルダーで完全に機能するため、特別な機能とテンプレートが用意されています。その他の機能のいくつか： # WooCommerce に対応 # レスポンシブ # RTL と翻訳に対応 # プレミアムアドオンで拡張可能 # 定期的に更新 # 設計、開発、保守、Brainstorm Force によるサポート。 完璧なベーステーマをお探しですか ? これ以上探す必要はありません。Astra は、あらゆる種類のウェブサイトを構築するために使用することができる速くて、完全にカスタマイズ可能で WooCommerce に対応したテーマです !"
+
+#. Theme Name of the theme
+#: inc/extras.php:529 inc/extras.php:1600
+#: inc/core/class-astra-admin-settings.php:90 inc/core/view-general.php:23
+msgid "Astra"
+msgstr "Astra"
+
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:57
+msgid "WooCommerce Layout"
+msgstr "WooCommerce レイアウト"
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:59
+msgid "LifterLMS Layout"
+msgstr "LifterLMS レイアウト"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:57
+msgid "LearnDash Layout"
+msgstr "LearnDash レイアウト"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:57
+msgid "Easy Digital Downloads Layout"
+msgstr "Easy Digital Downloads レイアウト"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:240
+msgid "Alignment"
+msgstr "整列"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:113
+msgid "Separator"
+msgstr "区切り"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:74
+msgid "Position"
+msgstr "配置"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:43
+msgid "Global"
+msgstr "全般"
+
+#: inc/customizer/custom-controls/slider/class-astra-control-slider.php:75
+#: inc/customizer/custom-controls/responsive-slider/class-astra-control-responsive-slider.php:87
+msgid "Back to default"
+msgstr "デフォルトに戻す"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:119
+msgid "Select Image"
+msgstr "画像を選択"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:115
+msgid "No Image Selected"
+msgstr "画像が選択されていません"
+
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:55
+msgid "Post / Page Title"
+msgstr "投稿 / ページ タイトル"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:96
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:237
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:128
+msgid "Weight"
+msgstr "ウェイト"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:62
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:203
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:89
+msgid "Family"
+msgstr "ファミリー"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:212
+msgid "Heading 6"
+msgstr "見出し6"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:180
+msgid "Heading 5"
+msgstr "見出し5"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:143
+msgid "Heading 4"
+msgstr "見出し4"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:112
+msgid "Heading 3"
+msgstr "見出し3"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:78
+msgid "Heading 2"
+msgstr "見出し2"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:44
+msgid "Heading 1"
+msgstr "見出し1"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:85
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:107
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:59
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:93
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:127
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:161
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:195
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:229
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:130
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:47
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:69
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:72
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:105
+msgid "Size"
+msgstr "サイズ"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:67
+msgid "Post Title"
+msgstr "投稿タイトル"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:56
+msgid "Archive Title"
+msgstr "アーカイブタイトル"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:362
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:559
+msgid "Hover Color"
+msgstr "ホバー色"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:304
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:502
+msgid "Padding"
+msgstr "パディング"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:208
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:406
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:244
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:57
+msgid "Colors"
+msgstr "色"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:72
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:222
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:420
+msgid "Border"
+msgstr "枠線"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:58
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:347
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:545
+msgid "Color"
+msgstr "色"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:46
+msgid "Colors and Border"
+msgstr "色と枠線"
+
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:88
+msgid "Title Color"
+msgstr "タイトル色"
+
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:70
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:128
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:101
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:129
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:255
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:287
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:453
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:485
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:130
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:97
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:150
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:204
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:257
+msgid "Hover"
+msgstr "ホバー"
+
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:40
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:55
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:86
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:100
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:114
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:87
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:115
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:239
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:271
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:437
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:469
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:85
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:100
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:115
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:145
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:79
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:114
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:132
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:168
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:186
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:222
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:239
+msgid "Normal"
+msgstr "標準"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:124
+msgid "Post Structure"
+msgstr "投稿構造"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:103
+msgid "Post Content"
+msgstr "投稿内容"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:133
+msgid "Site Icon"
+msgstr "サイトアイコン"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:43
+msgid "Site Logo"
+msgstr "サイトロゴ"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:113
+msgid "Archives Layout"
+msgstr "アーカイブレイアウト"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:93
+msgid "Blog Post Layout"
+msgstr "個別投稿レイアウト"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:75
+msgid "Page Layout"
+msgstr "ページレイアウト"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:142
+msgid "Meta"
+msgstr "メタ情報"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:95
+msgid "Structure"
+msgstr "構造"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:64
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:76
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:164
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:124
+msgid "Custom Width"
+msgstr "カスタム幅"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:330
+msgid "Top Border Color"
+msgstr "トップボーダーの色"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:316
+msgid "Top Border Size"
+msgstr "トップボーダーのサイズ"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:90
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:139
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:490
+msgid "Menu Label"
+msgstr "メニューラベル"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:416
+msgid "Mobile Menu"
+msgstr "モバイルメニュー"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:407
+msgid "Take Last Item Outside Menu"
+msgstr "最後の項目をメニューの外に出す"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:337
+msgid "Divider Color"
+msgstr "区切り色"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:327
+msgid "Submenu Divider"
+msgstr "サブメニューの罫線"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:298
+msgid "Container Border"
+msgstr "コンテナーの枠線"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:279
+msgid "Container Animation"
+msgstr "コンテナーのアニメーション"
+
+#: inc/customizer/configurations/layout/class-astra-site-layout-configs.php:42
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:275
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:326
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:524
+msgid "Width"
+msgstr "幅"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:259
+msgid "Sub Menu"
+msgstr "サブメニュー"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:246
+msgid "Center"
+msgstr "中央"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:226
+msgid "Disable on 404 Page?"
+msgstr "404ページで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:212
+msgid "Disable on Singular?"
+msgstr "投稿ページで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:210
+msgid "All Pages, All Posts, All Attachments"
+msgstr "すべてのページ、すべての投稿、すべての添付ファイル"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:197
+msgid "Disable on Single Post?"
+msgstr "個別投稿で無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:183
+msgid "Disable on Single Page?"
+msgstr "固定ページで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:169
+msgid "Disable on Archive?"
+msgstr "アーカイブで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:155
+msgid "Disable on Search?"
+msgstr "検索で無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:141
+msgid "Disable on Blog / Posts Page?"
+msgstr "投稿一覧ページで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:139
+msgid "Latest posts page or when any page is selected as blog page"
+msgstr "最新の投稿ページ、またはいずれかのページがブログページとして選択されている場合"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:126
+msgid "Disable on Home Page?"
+msgstr "ホームページで無効化しますか ?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:82
+msgid "Before Title"
+msgstr "タイトルの前"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:80
+msgid "Inside Header"
+msgstr "ヘッダーの内側"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:94
+msgid "Breadcrumb Source"
+msgstr "パンくずリストのソース"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:57
+msgid "Breadcrumb Overview"
+msgstr "パンくずリストの概要"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:147
+msgid "Separator Color"
+msgstr "区切りの色"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:50
+msgid "Breadcrumb"
+msgstr "パンくずリスト"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:925
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:897
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1326
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j日"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:896
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:952
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1322
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "n月"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:895
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:924
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:951
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:978
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1318
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:879
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:862
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:845
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:385
+msgid "Week %s"
+msgstr "第%s週"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:383
+msgid "Minute %s"
+msgstr "%s分"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:381
+msgid "Comment Page %s"
+msgstr "コメントページ %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:379
+msgid "Page %s"
+msgstr "ページ %s"
+
+#. Translators: %s is the search query.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:377
+msgid "Search results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:113
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:375
+msgid "Archives"
+msgstr "アーカイブ"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:374
+msgid "404 Not Found"
+msgstr "404: 見つかりませんでした"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:372
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:371
+msgid "Browse:"
+msgstr "表示:"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:101
+msgid "Latest Posts page is your site's front page when the latest posts are displayed on the home page."
+msgstr "最新の投稿ページは、ホームページに最新の投稿が表示されているときのサイトのフロントページです。"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:100
+msgid "Disable on Latest Posts Page?"
+msgstr "最新の投稿ページで無効化しますか ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:85
+msgid "Disable on Blog page?"
+msgstr "投稿一覧ページで無効化しますか ?"
+
+#: inc/core/class-astra-admin-settings.php:344
+msgid "Details »"
+msgstr "詳細 »"
+
+#: inc/core/class-astra-admin-settings.php:229
+msgid "Thank you for installing Astra!"
+msgstr "Astra をインストールしていただきありがとうございます !"
+
+#: inc/core/class-astra-admin-settings.php:201
+#: inc/core/class-astra-admin-settings.php:204
+msgid "Get Started"
+msgstr "始めてみよう"
+
+#: inc/class-astra-mobile-header.php:110
+msgid "Menu Toggle"
+msgstr "メニュートグル"
+
+#: inc/core/class-astra-admin-settings.php:1443
+msgid "Plugin Successfully Deactivated"
+msgstr "プラグインが正常に無効化されました"
+
+#. translators: %1s Astra Theme
+#: inc/core/class-astra-admin-settings.php:1155
+msgid "Extend %1s with free plugins!"
+msgstr "無料のプラグインで %1s を拡張してください !"
+
+#: inc/core/class-astra-admin-settings.php:476
+#: inc/core/class-astra-admin-settings.php:1325
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/core/class-astra-admin-settings.php:475
+#: inc/core/class-astra-admin-settings.php:1291
+#: inc/core/class-astra-admin-settings.php:1308
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/core/class-astra-admin-settings.php:474
+msgid "Deactivating"
+msgstr "無効化中"
+
+#: inc/core/class-astra-admin-settings.php:473
+msgid "Activating"
+msgstr "有効化中"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:351
+msgid "Primary Header Button"
+msgstr "プライマリーヘッダーボタン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:212
+msgid "Button Style"
+msgstr "ボタンのスタイル"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:191
+msgid "Button Link"
+msgstr "ボタンリンク"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:177
+msgid "Button Text"
+msgstr "ボタンテキスト"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:314
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:209
+msgid "Border Color"
+msgstr "ボーダー色"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:188
+msgid "Border Size"
+msgstr "ボーダースタイル"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:362
+msgid "Transparent Header Button"
+msgstr "透過ヘッダーボタン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:210
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:195
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:393
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:340
+msgid "Header Button"
+msgstr "ヘッダーボタン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:209
+msgid "Theme Button"
+msgstr "テーマボタン"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:346
+msgid "Submenu"
+msgstr "サブメニュー"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:151
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:205
+msgid "Link Active / Hover Color"
+msgstr "リンクのアクティブ / ホバーの色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:115
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:169
+msgid "Link / Text Color"
+msgstr "リンク / テキスト色"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:124
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:335
+msgid "Menu"
+msgstr "メニュー"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:78
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:96
+msgid "Site Title Color"
+msgstr "サイトタイトルの色"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:197
+msgid "Logo"
+msgstr "ロゴ"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:181
+msgid "Different Logo for Transparent Header?"
+msgstr "透過ヘッダーで別のロゴを使用しますか ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:160
+msgid "Desktop + Mobile"
+msgstr "デスクトップとモバイル"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:159
+msgid "Mobile"
+msgstr "モバイル"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:158
+msgid "Desktop"
+msgstr "デスクトップ"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:155
+msgid "Enable On"
+msgstr "有効化する"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:129
+msgid "Disable on Posts?"
+msgstr "投稿で無効にしますか ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:115
+msgid "Disable on Pages?"
+msgstr "固定ページで無効にしますか ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:70
+msgid "Disable on 404, Search & Archives?"
+msgstr "404、検索、アーカイブで無効化しますか ?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:56
+msgid "Enable on Complete Website"
+msgstr "サイト全体で有効化"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:333
+msgid "Enabled"
+msgstr "有効"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:57
+msgid "Disable on WooCommerce Product Pages?"
+msgstr "WooCommerce の商品ページで無効化しますか ?"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:106
+msgid "Options"
+msgstr "オプション"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:152
+#: inc/core/class-astra-theme-options.php:169
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:105
+msgid "Button"
+msgstr "ボタン"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:89
+msgid "Cart Button Text"
+msgstr "カートボタンのテキスト"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:69
+msgid "Image"
+msgstr "画像"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:46
+msgid "Product Archive"
+msgstr "商品アーカイブ"
+
+#: inc/compatibility/edd/class-astra-edd.php:619
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Easy Digital Downloads サイドバー"
+
+#: inc/compatibility/edd/class-astra-edd.php:560
+msgid "View Details"
+msgstr "詳細を表示"
+
+#: inc/core/class-astra-admin-settings.php:1025
+#: inc/compatibility/edd/class-astra-edd.php:224
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:57
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:40
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#. Translators: %s is the theme name.
+#: inc/metabox/class-astra-meta-boxes.php:159
+msgid "%s Settings"
+msgstr "%s 設定"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:130
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:128
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:126
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:124
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:122
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:120
+msgid "400 Italic"
+msgstr "400 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:118
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:116
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:114
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: inc/core/class-astra-admin-settings.php:183
+msgid "I already did"
+msgstr "レビュー済みです"
+
+#: inc/core/class-astra-admin-settings.php:182
+msgid "Nope, maybe later"
+msgstr "いいえ、多分後で"
+
+#: inc/core/class-astra-admin-settings.php:180
+msgid "Ok, you deserve it"
+msgstr "わかりました、あなたはそれにふさわしい"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:284
+msgid "Fade"
+msgstr "フェード"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:283
+msgid "Slide Up"
+msgstr "スライドアップ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:282
+msgid "Slide Down"
+msgstr "スライドダウン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:303
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:309
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:331
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:507
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:529
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:245
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:268
+msgid "Left"
+msgstr "左"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:302
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:308
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:330
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:506
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:528
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:267
+msgid "Bottom"
+msgstr "下"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:301
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:307
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:329
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:505
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:527
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:247
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:266
+msgid "Right"
+msgstr "右"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:300
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:306
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:328
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:504
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:526
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:265
+msgid "Top"
+msgstr "トップ"
+
+#: inc/core/class-astra-admin-settings.php:916
+msgid "Nav Menu"
+msgstr "ナビゲーションメニュー"
+
+#. Translators: Author Name.
+#: inc/blog/blog-config.php:151
+msgid "View all posts by %1$s"
+msgstr "%1$s の投稿をすべて表示"
+
+#: inc/core/common-functions.php:1109
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: inc/core/common-functions.php:1108
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:293
+msgid "Typography Overview"
+msgstr "タイポグラフィの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:251
+msgid "Colors & Background Overview"
+msgstr "色と背景の概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:227
+msgid "Sidebar Overview"
+msgstr "サイドバーの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:185
+msgid "Footer Bar Overview"
+msgstr "フッターバーの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:130
+msgid "Primary Header Overview"
+msgstr "プライマリヘッダーの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:103
+msgid "Site Identity Overview"
+msgstr "サイトアイデンティティの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:64
+msgid "Container Overview"
+msgstr "コンテナーの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:58
+msgid "Site Layout Overview"
+msgstr "サイトレイアウトの概要"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:55
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:100
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:127
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:182
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:224
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:248
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:290
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:54
+msgid "Helpful Information"
+msgstr "お役立ち情報"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:56
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:209
+msgid "Different Logo For Retina Devices?"
+msgstr "レティーナ端末で別のロゴを使用しますか ?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:455
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:563
+msgid "Link"
+msgstr "リンク"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:454
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:562
+msgid "Icon"
+msgstr "アイコン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:451
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:559
+msgid "Dropdown Target"
+msgstr "ドロップダウンターゲット"
+
+#: inc/core/class-astra-admin-settings.php:1495
+msgid "⚡ Lightning Fast & Fully Customizable WordPress theme!"
+msgstr "⚡拘束で全体がカスタマイズできる WordPress テーマ !"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:99
+msgid "Mobile Logo (optional)"
+msgstr "モバイルロゴ (オプション) "
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:84
+msgid "Different Logo For Mobile Devices?"
+msgstr "モバイル端末で別のロゴを使用しますか ?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:523
+msgid "Toggle Button Color"
+msgstr "トグルボタンの色"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:510
+msgid "Minimal"
+msgstr "ミニマル"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:509
+msgid "Outline"
+msgstr "アウトライン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:508
+msgid "Fill"
+msgstr "塗りつぶし"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:502
+msgid "Toggle Button Style"
+msgstr "トグルボタンのスタイル"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:393
+msgid "Hide Last Item in Menu on Mobile"
+msgstr "モバイルでメニューの最後の項目を非表示"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:146
+msgid "Last Item in Menu"
+msgstr "メニューの最後の項目"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:432
+msgid "Menu Breakpoint"
+msgstr "メニューのブレークポイント"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:95
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:356
+#: inc/core/class-astra-admin-settings.php:890
+msgid "Mobile Header"
+msgstr "モバイルヘッダー"
+
+#: inc/core/class-astra-admin-settings.php:1038
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:57
+#: inc/compatibility/learndash/customizer/class-astra-customizer-register-learndash-section.php:40
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:235
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:133
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:90
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:56
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:144
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:313
+msgid "Background"
+msgstr "背景"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:177
+msgid "Fixed"
+msgstr "固定"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:174
+msgid "Scroll"
+msgstr "スクロール"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:168
+msgid "Background Attachment"
+msgstr "背景スクロール"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:161
+msgid "Auto"
+msgstr "自動"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:158
+msgid "Contain"
+msgstr "全体を表示"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:155
+msgid "Cover"
+msgstr "カバー"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:152
+msgid "Background Size"
+msgstr "背景サイズ"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:146
+msgid "Center Bottom"
+msgstr "中央下"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:145
+msgid "Center Center"
+msgstr "中央"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:144
+msgid "Center Top"
+msgstr "中央上"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:143
+msgid "Right Bottom"
+msgstr "右下"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:142
+msgid "Right Center"
+msgstr "右中央"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:141
+msgid "Right Top"
+msgstr "右上"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:140
+msgid "Left Bottom"
+msgstr "左下"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:139
+msgid "Left Center"
+msgstr "左中央"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:138
+msgid "Left Top"
+msgstr "左上"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:131
+msgid "Repeat Vertically"
+msgstr "タテに繰り返し"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:130
+msgid "Repeat Horizontally"
+msgstr "ヨコに繰り返し"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:129
+msgid "Repeat All"
+msgstr "すべて繰り返し"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:128
+msgid "No Repeat"
+msgstr "繰り返しなし"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:118
+msgid "Remove"
+msgstr "削除"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:110
+msgid "Background Image"
+msgstr "背景画像"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:73
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:120
+msgid "More Settings"
+msgstr "高度な設定"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:72
+msgid "Less Settings"
+msgstr "設定を隠す"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:71
+msgid "No file selected"
+msgstr "ファイルが選択されていません"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:58
+msgid "This layout will apply on all single course, lesson, topic and quiz."
+msgstr "このレイアウトはすべての個別コース、レッスン、トピックとクイズに適用されます。"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:57
+msgid "Differentiate Rows"
+msgstr "たくさんの種類の行"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:44
+msgid "Display Serial Number"
+msgstr "シリアルナンバーを表示"
+
+#. translators: %1$s: Astra Theme name.
+#: inc/core/class-astra-admin-settings.php:703
+msgid "%1$s Community"
+msgstr "%1$s コミュニティ"
+
+#: inc/extras.php:1647
+msgid "Astra Pro"
+msgstr "Astra Pro"
+
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:109
+msgid "More Options Available for Typography in Astra Pro!"
+msgstr "Astra Pro では文字設定の追加オプションが利用可能です。"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:597
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:368
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:166
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:147
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:268
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:109
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:112
+msgid "Learn More"
+msgstr "詳細を読む"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:57
+msgid "Theme Color"
+msgstr "テーマカラー"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:597
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:368
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:166
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:147
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:268
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:112
+#: inc/customizer/astra-pro/class-astra-pro-upgrade-link-configs.php:33
+msgid "More Options Available in Astra Pro!"
+msgstr "Astra Pro ではより多くの設定が利用可能です。"
+
+#. translators: %1$1s: Addon Name, %2$2s: Minimum Required version of the Astra
+#. Addon
+#: inc/core/class-astra-admin-settings.php:1475
+msgid "Update to the latest version of %1$2s to make changes in settings below."
+msgstr "最新バーションの %1$2s にアップデートして、以下の設定を変更しましょう。"
+
+#: inc/core/class-astra-admin-settings.php:1405
+msgid "Plugin Successfully Activated"
+msgstr "プラグインは正常に有効化しました"
+
+#: inc/core/class-astra-admin-settings.php:1384
+#: inc/core/class-astra-admin-settings.php:1422
+msgid "No plugin specified"
+msgstr "プラグインが指定されていません。"
+
+#: inc/core/class-astra-admin-settings.php:1081
+msgid "Links to Customizer Settings:"
+msgstr "カスタマイザー設定へのリンク: "
+
+#: inc/core/class-astra-admin-settings.php:1065
+msgid "White Label"
+msgstr "ホワイトラベル"
+
+#: inc/core/class-astra-admin-settings.php:999
+msgid "Scroll To Top"
+msgstr "トップへスクロール"
+
+#: inc/core/class-astra-admin-settings.php:973
+msgid "Site Layouts"
+msgstr "サイトレイアウト"
+
+#: inc/core/class-astra-admin-settings.php:959
+msgid "Add content conditionally in the various hook areas of the theme."
+msgstr "テーマ内の様々なエリアをフックして、コンテンツを条件付きで追加します。"
+
+#: inc/core/class-astra-admin-settings.php:957
+msgid "Custom Layouts"
+msgstr "カスタムレイアウト"
+
+#: inc/core/class-astra-admin-settings.php:943
+msgid "Make your header layouts look more appealing and sexy!"
+msgstr "オリジナルのヘッダーレイアウトを作成して、魅力的に見せましょう。"
+
+#: inc/core/class-astra-admin-settings.php:942
+msgid "Page Headers"
+msgstr "ページヘッダー"
+
+#: inc/core/class-astra-admin-settings.php:929
+msgid "Sticky Header"
+msgstr "上部固定ヘッダー"
+
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:48
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:329
+msgid "Transparent Header"
+msgstr "透過ヘッダー"
+
+#: inc/core/class-astra-admin-settings.php:903
+msgid "Header Sections"
+msgstr "ヘッダーセクション"
+
+#: inc/core/class-astra-admin-settings.php:877
+msgid "Blog Pro"
+msgstr "ブログ Pro"
+
+#: inc/core/class-astra-admin-settings.php:864
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:261
+msgid "Spacing"
+msgstr "間隔"
+
+#: inc/core/class-astra-admin-settings.php:845
+#: inc/core/class-astra-admin-settings.php:858
+#: inc/core/class-astra-admin-settings.php:871
+#: inc/core/class-astra-admin-settings.php:884
+#: inc/core/class-astra-admin-settings.php:897
+#: inc/core/class-astra-admin-settings.php:910
+#: inc/core/class-astra-admin-settings.php:923
+#: inc/core/class-astra-admin-settings.php:936
+#: inc/core/class-astra-admin-settings.php:951
+#: inc/core/class-astra-admin-settings.php:967
+#: inc/core/class-astra-admin-settings.php:980
+#: inc/core/class-astra-admin-settings.php:993
+#: inc/core/class-astra-admin-settings.php:1006
+#: inc/core/class-astra-admin-settings.php:1019
+#: inc/core/class-astra-admin-settings.php:1032
+#: inc/core/class-astra-admin-settings.php:1046
+#: inc/core/class-astra-admin-settings.php:1059
+#: inc/core/class-astra-admin-settings.php:1072
+msgid "Learn More »"
+msgstr "詳細 »"
+
+#: inc/core/class-astra-admin-settings.php:827
+msgid "Sidebar Options"
+msgstr "サイドバー設定"
+
+#: inc/core/class-astra-admin-settings.php:822
+msgid "Footer Settings"
+msgstr "フッター設定"
+
+#: inc/core/class-astra-admin-settings.php:817
+msgid "Blog Layouts"
+msgstr "ブログレイアウト"
+
+#: inc/core/class-astra-admin-settings.php:812
+msgid "Header Options"
+msgstr "ヘッダー設定"
+
+#: inc/core/class-astra-admin-settings.php:807
+msgid "Layout Options"
+msgstr "レイアウトオプション"
+
+#: inc/core/class-astra-admin-settings.php:802
+msgid "Customize Fonts"
+msgstr "フォントのカスタマイズ"
+
+#: inc/core/class-astra-admin-settings.php:797
+msgid "Set Colors"
+msgstr "色設定"
+
+#: inc/core/class-astra-admin-settings.php:792
+msgid "Upload Logo"
+msgstr "ロゴのアップロード"
+
+#: inc/core/class-astra-admin-settings.php:785
+msgid "More Options Available with Astra Pro!"
+msgstr "Astra Pro ではより多くの設定が利用可能です。"
+
+#: inc/core/class-astra-admin-settings.php:764
+msgid "Submit a Ticket »"
+msgstr "チケットを送信 »"
+
+#. translators: %1$s: Astra Theme name.
+#: inc/core/class-astra-admin-settings.php:757
+msgid "Got a question? Get in touch with %1$s developers. We're happy to help!"
+msgstr "ご不明な点がありましたら、%1$s 開発チームにお問い合わせください。"
+
+#: inc/core/class-astra-admin-settings.php:750
+msgid "Five Star Support"
+msgstr "5つ星のサポート"
+
+#: inc/core/class-astra-admin-settings.php:720
+msgid "Join Our Facebook Group »"
+msgstr "Facebook グループに参加 »"
+
+#: inc/core/class-astra-admin-settings.php:669
+msgid "Visit Knowledge Base »"
+msgstr "ナレッジベースを見る »"
+
+#: inc/core/class-astra-admin-settings.php:665
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr "何かがどのように機能するかわかりませんか ? ナレッジベースをのぞいて、学んでみましょう。"
+
+#: inc/core/class-astra-admin-settings.php:661
+msgid "Knowledge Base"
+msgstr "ナレッジベース"
+
+#: inc/core/class-astra-admin-settings.php:337
+msgid "Install Importer Plugin"
+msgstr "インポータープラグインをインストール"
+
+#: inc/core/class-astra-admin-settings.php:325
+msgid "Activate Importer Plugin"
+msgstr "インポータープラグインを有効化"
+
+#: inc/core/class-astra-admin-settings.php:613
+msgid "Import your favorite site one click and start your project in style!"
+msgstr "1クリックでお気に入りのサイトをインポートし、おしゃれなプロジェクトを開始しましょう。"
+
+#: inc/core/class-astra-admin-settings.php:601
+msgid "Starter Site Templates?"
+msgstr "スターターサイトテンプレート ?"
+
+#. translators: %1$s: Starter site link.
+#: inc/core/class-astra-admin-settings.php:604
+msgid "Did you know %1$s offers a free library of %2$s "
+msgstr "ご存知でしたか ? %1$s は %2$s の無料ライブラリをご用意しています。"
+
+#: inc/core/class-astra-admin-settings.php:594
+msgid "Import Starter Site"
+msgstr "スターターサイトをインポート"
+
+#: inc/core/class-astra-admin-settings.php:329
+#: inc/core/class-astra-admin-settings.php:341
+#: inc/core/class-astra-admin-settings.php:349
+#: inc/core/class-astra-admin-settings.php:353
+#: inc/core/class-astra-admin-settings.php:472
+msgid "See Library »"
+msgstr "ライブラリを表示 »"
+
+#: inc/core/class-astra-admin-settings.php:330
+#: inc/core/class-astra-admin-settings.php:470
+msgid "Activating Importer Plugin "
+msgstr "インポートプラグインを有効化"
+
+#: inc/core/class-astra-admin-settings.php:89
+msgid "Astra Options"
+msgstr "Astra 設定"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:58
+#: inc/customizer/class-astra-customizer.php:778
+msgid "Default System Font"
+msgstr "デフォルトシステムフォント"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:48
+msgid "Course Columns"
+msgstr "コースカラム"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:70
+msgid "Membership Columns"
+msgstr "メンバーシップカラム"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:106
+msgid "Shop Archive Content Width"
+msgstr "ショップアーカイブコンテンツ幅"
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:76
+msgid "LifterLMS Course/Lesson"
+msgstr "LifterLMS コース / レッスン"
+
+#: inc/core/class-astra-admin-settings.php:1052
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:57
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:39
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:297
+msgid "Leave Review"
+msgstr "レビューを残す"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:293
+msgid "Review Text is required."
+msgstr "レビュー本文は必須です。"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:292
+msgid "Review Text"
+msgstr "レビュー本文"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:291
+msgid "Review Title is required."
+msgstr "レビュータイトルは必須です。"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:290
+msgid "Review Title"
+msgstr "レビュータイトル"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:288
+msgid "Write a Review"
+msgstr "レビューを書く"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:282
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:301
+msgid "Thank you for your review!"
+msgstr "レビューありがとうございます。"
+
+#. translators: 1 Author Name.
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:245
+msgid "By: %s"
+msgstr "%s より"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:216
+msgid "What Others Have Said"
+msgstr "お客様の声"
+
+#: inc/core/class-astra-admin-settings.php:477
+msgid "Settings"
+msgstr "設定"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:177
+msgid "Inline Logo & Site Title"
+msgstr "インラインロゴ & サイトタイトル"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:199
+msgid "Blog"
+msgstr "ブログ"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:122
+msgid "Primary Header"
+msgstr "メインヘッダー"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:137
+msgid "Availability:"
+msgstr "有効:"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:84
+msgid "Out of stock"
+msgstr "在庫切れ"
+
+#: inc/compatibility/edd/class-astra-edd.php:558
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:74
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:91
+msgid "Add To Cart"
+msgstr "カートに追加"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:73
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:90
+msgid "Short Description"
+msgstr "簡単な説明"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:89
+msgid "Ratings"
+msgstr "評価"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:72
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:88
+msgid "Price"
+msgstr "金額"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:71
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:87
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:85
+msgid "Shop Product Structure"
+msgstr "ショップの標品構造"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:64
+msgid "Products Per Page"
+msgstr "1ページあたりの商品数"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:49
+msgid "Shop Columns"
+msgstr "ショップカラム"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:45
+#: inc/metabox/class-astra-meta-boxes.php:318
+msgid "Disable Breadcrumb"
+msgstr "パンくずリストを無効化"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-cart-layout-configs.php:45
+msgid "Enable Upsells"
+msgstr "アップセルを有効化"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:62
+msgid "Cart"
+msgstr "カート"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:55
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:76
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:54
+msgid "Single Product"
+msgstr "商品"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:45
+msgid "Shop"
+msgstr "ショップ"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:38
+msgid "General"
+msgstr "一般"
+
+#: inc/core/class-astra-admin-settings.php:1012
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:57
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/edd/class-astra-edd.php:343
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1028
+msgid "View your shopping cart"
+msgstr "カートを見る"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:437
+msgid "This sidebar will be used on Single Product page."
+msgstr "このサイドバーは個別商品ページで使用します。"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:435
+msgid "Product Sidebar"
+msgstr "商品サイドバー"
+
+#: inc/compatibility/edd/class-astra-edd.php:621
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:423
+msgid "This sidebar will be used on Product archive, Cart, Checkout and My Account pages."
+msgstr "このサイドバーは商品アーカイブ、カート、チェックアウトとマイアカウントページで使用します。"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:421
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce サイドバー"
+
+#. translators: 1: number of products
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:212
+msgctxt "product categories"
+msgid "<mark class=\"count\">%1$s Product</mark>"
+msgid_plural "<mark class=\"count\">%1$s Products</mark>"
+msgstr[0] "<mark class=\"count\">%1$s件の商品</mark>"
+
+#: inc/core/common-functions.php:814
+msgid "This page doesn't seem to exist."
+msgstr "このページは存在しないようです。"
+
+#: inc/core/common-functions.php:808
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:373
+msgid "Home"
+msgstr "ホーム"
+
+#: inc/metabox/class-astra-meta-boxes.php:282
+msgid "Disable Featured Image"
+msgstr "アイキャッチ画像を表示しない"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:118
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:242
+msgid "Logo Width"
+msgstr "ロゴの幅"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:71
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:226
+msgid "Retina Logo"
+msgstr "Retina ロゴ"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:639
+#: inc/metabox/class-astra-meta-boxes.php:307
+msgid "Disable Footer Bar"
+msgstr "フッターバーを表示しない"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:630
+#: inc/metabox/class-astra-meta-boxes.php:295
+msgid "Disable Footer Widgets"
+msgstr "フッターウィジェットを無効化"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:171
+msgid "Paragraph Margin Bottom"
+msgstr "段落の下部マージン"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:127
+msgid "Title & Blog Meta"
+msgstr "タイトル & ブログメタ"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:126
+msgid "Featured Image"
+msgstr "アイキャッチ画像"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:47
+msgid "Continue reading %s"
+msgstr "続きを読む %s"
+
+#: inc/widgets.php:199
+msgid "Footer Widget Area 4"
+msgstr "フッターウィジェットエリア4"
+
+#: inc/widgets.php:185
+msgid "Footer Widget Area 3"
+msgstr "フッターウィジェットエリア3"
+
+#: inc/widgets.php:171
+msgid "Footer Widget Area 2"
+msgstr "フッターウィジェットエリア2"
+
+#: inc/widgets.php:157
+msgid "Footer Widget Area 1"
+msgstr "フッターウィジェットエリア1"
+
+#: inc/widgets.php:139
+msgid "Footer Bar Section 2"
+msgstr "フッターバーセクション2"
+
+#: inc/widgets.php:124
+msgid "Footer Bar Section 1"
+msgstr "フッターバーセクション1"
+
+#: inc/template-parts.php:173
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:332
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:657
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:669
+#: inc/metabox/class-astra-meta-boxes.php:229
+#: inc/metabox/class-astra-meta-boxes.php:245
+msgid "Customizer Setting"
+msgstr "カスタマイザー設定"
+
+#: inc/extras.php:1301
+msgid "Click here to assign a widget for this area."
+msgstr "クリックしてこのエリアにウィジェットを割り当てます。"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:189
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:316
+msgid "Headings"
+msgstr "見出し"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:44
+msgid "Body & Content"
+msgstr "本文とコンテンツ"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:57
+msgid "Footer Bar Layout 2"
+msgstr "フッターバーレイアウト2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:53
+msgid "Footer Bar Layout 1"
+msgstr "フッターバーレイアウト1"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:75
+msgid "Pages"
+msgstr "固定ページ"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:65
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:82
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:119
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:63
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:64
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:673
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:65
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:63
+#: inc/metabox/class-astra-meta-boxes.php:249
+msgid "Full Width / Stretched"
+msgstr "全幅 / ストレッチ"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:64
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:81
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:62
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:672
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:64
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:62
+#: inc/metabox/class-astra-meta-boxes.php:248
+msgid "Full Width / Contained"
+msgstr "全幅 / 収める"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:45
+msgid "Default Layout"
+msgstr "デフォルトレイアウト"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:298
+msgid "Layout 4"
+msgstr "レイアウト4"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:294
+msgid "Disable"
+msgstr "無効化"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:70
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:61
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:75
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:116
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:130
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:117
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:132
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:240
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:258
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:307
+msgid "Base Typography"
+msgstr "基本書式設定"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:265
+msgid "Base Colors"
+msgstr "基本色"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:176
+msgid "Footer Bar"
+msgstr "フッターバー"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:79 inc/core/class-theme-strings.php:94
+msgid "Previous %s"
+msgstr "前の%s"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:77 inc/core/class-theme-strings.php:92
+msgid "Next %s"
+msgstr "次の%s"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:129
+msgid "Ultra-Bold 900"
+msgstr "Ultra-Bold 900"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:127
+msgid "Extra-Bold 800"
+msgstr "Extra-Bold 800"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:125
+msgid "Bold 700"
+msgstr "Bold 700"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:123
+msgid "Semi-Bold 600"
+msgstr "Semi-Bold 600"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:121
+msgid "Medium 500"
+msgstr "Medium 500"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:119
+msgid "Normal 400"
+msgstr "Normal 400"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:117
+msgid "Light 300"
+msgstr "Light 300"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:115
+msgid "Extra-Light 200"
+msgstr "Extra-Light 200"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:113
+msgid "Thin 100"
+msgstr "Thin 100"
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:168
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:274
+#: inc/core/class-astra-admin-settings.php:986
+msgid "Footer Widgets"
+msgstr "フッターウィジェット"
+
+#: inc/widgets.php:88
+msgid "Main Sidebar"
+msgstr "メインスライダー"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:66
+#: template-parts/single/single-layout.php:41 inc/template-tags.php:36
+msgid "Edit %s"
+msgstr "%sの編集"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:613
+#: inc/metabox/class-astra-meta-boxes.php:267
+msgid "Disable Primary Header"
+msgstr "メインヘッダーを停止"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:621
+#: inc/metabox/class-astra-meta-boxes.php:275
+msgid "Disable Title"
+msgstr "タイトルを停止"
+
+#: inc/metabox/class-astra-meta-boxes.php:259
+msgid "Disable Sections"
+msgstr "セクションを停止"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:645
+msgid "Astra Settings"
+msgstr "Astra 設定"
+
+#: inc/extras.php:1264
+msgid "Add Widget"
+msgstr "ウィジェットを追加"
+
+#: inc/extras.php:570
+msgid "Assign Footer Menu"
+msgstr "フッターメニューの割り当て"
+
+#: inc/extras.php:392
+msgid "Add Custom HTML"
+msgstr "カスタム HTML を追加"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:216
+msgid "Site Tagline"
+msgstr "サイトのキャッチフレーズ"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:188
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:324
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:150
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:167
+msgid "Line Height"
+msgstr "行の高さ"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:116
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:259
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:151
+msgid "Lowercase"
+msgstr "小文字"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:115
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:258
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:150
+msgid "Uppercase"
+msgstr "大文字"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:114
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:257
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:149
+msgid "Capitalize"
+msgstr "先頭大文字"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:255
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:171
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:111
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:147
+msgid "Inherit"
+msgstr "継承"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:110
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:251
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:143
+msgid "Text Transform"
+msgstr "テキスト変換"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:161
+msgid "Display Site Tagline"
+msgstr "サイトキャッチコピーを表示する"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:148
+msgid "Display Site Title"
+msgstr "サイトタイトルを表示"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:144
+msgid "Sidebar Width"
+msgstr "サイドバーの幅"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:62
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:81
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:659
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:81
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:81
+#: inc/metabox/class-astra-meta-boxes.php:231
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:61
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:80
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:658
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:80
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:80
+#: inc/metabox/class-astra-meta-boxes.php:230
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:60
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:79
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:660
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:60
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:79
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:60
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:79
+#: inc/metabox/class-astra-meta-boxes.php:232
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:374
+msgid "Stack"
+msgstr "固定"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:370
+msgid "Inline"
+msgstr "インライン"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:116
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:292
+msgid "Bottom Border Color"
+msgstr "下部ボーダー色"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:96
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:273
+msgid "Bottom Border Size"
+msgstr "下部ボーダーサイズ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:251
+msgid "Custom Menu Text / HTML"
+msgstr "カスタムメニューテキスト / HTML"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:36
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:153
+msgid "Text / HTML"
+msgstr "テキスト / HTML"
+
+#: inc/extras.php:360
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:35
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:151
+#: inc/core/common-functions.php:1111
+msgid "Search"
+msgstr "検索"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:135
+msgid "Disable Menu"
+msgstr "メニューを無効化"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:63
+msgid "Logo Right"
+msgstr "右ロゴ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:59
+msgid "Logo Center"
+msgstr "中央ロゴ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:55
+msgid "Logo Left"
+msgstr "左ロゴ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:81
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:278
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:45
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:57
+msgid "Content Width"
+msgstr "コンテンツの幅"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:277
+msgid "Full Width"
+msgstr "全幅"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:156
+msgid "Section 2 Custom Text"
+msgstr "セクション2のカスタムテキスト"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:136
+msgid "Section 2"
+msgstr "セクション2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:111
+msgid "Section 1 Custom Text"
+msgstr "セクション1のカスタムテキスト"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:37
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:154
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:91
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:140
+msgid "Widget"
+msgstr "ウィジェット"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:114
+msgid "Custom Text"
+msgstr "カスタムテキスト"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:34
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:150
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:138
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:113
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:256
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:79
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:148
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:87
+msgid "Section 1"
+msgstr "セクション1"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:49
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:334
+msgid "Disabled"
+msgstr "無効"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:117
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:131
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:274
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:290
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:472
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:488
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:104
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:87
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:133
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:187
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:94
+msgid "Blog Posts"
+msgstr "ブログ投稿"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:63
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:61
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:671
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:63
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:61
+#: inc/metabox/class-astra-meta-boxes.php:247
+msgid "Content Boxed"
+msgstr "コンテンツのみボックス"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:62
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:60
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:670
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:60
+#: inc/metabox/class-astra-meta-boxes.php:246
+msgid "Boxed"
+msgstr "ボックス"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:666
+#: inc/metabox/class-astra-meta-boxes.php:242
+msgid "Content Layout"
+msgstr "コンテンツのレイアウト"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:110
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:109
+msgid "Full Content"
+msgstr "すべてのコンテンツ"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:60
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:149
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:109
+msgid "Custom"
+msgstr "カスタム"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:281
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:77
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:95
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:59
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:76
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:93
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:112
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:220
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:36
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:148
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:59
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:59
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:78
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:60
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:60
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:59
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:78
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:108
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:59
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:59
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:78
+msgid "Default"
+msgstr "デフォルト"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:119
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:148
+msgid "Tag"
+msgstr "タグ"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:118
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:147
+msgid "Publish Date"
+msgstr "公開日"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:117
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:146
+msgid "Author"
+msgstr "作成者"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:145
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:70
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:92
+msgid "Category"
+msgstr "カテゴリー"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:144
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:83
+msgid "Link Hover Color"
+msgstr "リンクのホバー色"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:44
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:45
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:102
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:89
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:103
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:242
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:258
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:440
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:456
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:102
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:223
+msgid "Text Color"
+msgstr "テキストの色"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:158
+msgid "Horizontal Padding"
+msgstr "水平余白"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:140
+msgid "Vertical Padding"
+msgstr "垂直余白"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:373
+msgid "Widget Areas"
+msgstr "ウィジェットエリア"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:329
+msgid "Buttons"
+msgstr "ボタン"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:250
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:71
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:72
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:72
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:357
+msgid "Content"
+msgstr "内容"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:198
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:225
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:43
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:46
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:285
+#: inc/core/class-astra-admin-settings.php:851
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:57
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:221
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:42
+#: inc/core/class-astra-admin-settings.php:838
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:303
+msgid "Colors & Background"
+msgstr "色と背景"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:220
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:654
+#: inc/metabox/class-astra-meta-boxes.php:226
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:212
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:205
+msgid "Blog / Archive"
+msgstr "ブログ / アーカイブ"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:150
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:83
+#: inc/widgets.php:106
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:57
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:50
+msgid "Container"
+msgstr "コンテナ"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:50
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:380
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:46
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:290
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:60
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/class-astra-customizer-sanitizes.php:277
+msgid "Enter valid email address!"
+msgstr "有効なメールアドレスを入力してください"
+
+#. translators: 1: search string
+#: inc/core/common-functions.php:820 inc/core/common-functions.php:912
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: inc/core/class-theme-strings.php:82
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: inc/core/class-theme-strings.php:72 inc/core/class-theme-strings.php:89
+msgid "Previous Page"
+msgstr "前ページ"
+
+#: inc/core/class-theme-strings.php:71 inc/core/class-theme-strings.php:88
+msgid "Next Page"
+msgstr "次ページ"
+
+#: inc/core/class-theme-strings.php:70
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: inc/core/class-theme-strings.php:69
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#: inc/core/class-theme-strings.php:67
+msgid "By "
+msgstr "By "
+
+#: inc/core/class-theme-strings.php:66 inc/core/class-theme-strings.php:75
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: inc/core/class-theme-strings.php:63
+msgid "Older Comments"
+msgstr "過去のコメント"
+
+#: inc/core/class-theme-strings.php:62
+msgid "Newer Comments"
+msgstr "新しいコメント"
+
+#: inc/core/class-theme-strings.php:61
+msgid "Comment navigation"
+msgstr "コメントナビゲーション"
+
+#: inc/core/class-theme-strings.php:60
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#: inc/core/class-theme-strings.php:59
+msgid "Website"
+msgstr "サイト"
+
+#: inc/core/class-theme-strings.php:58
+msgid "Email*"
+msgstr "メール*"
+
+#: inc/core/class-theme-strings.php:57
+msgid "Name*"
+msgstr "名前*"
+
+#: inc/core/class-theme-strings.php:56
+msgid "Type here.."
+msgstr "ここに入力"
+
+#: inc/core/class-theme-strings.php:55
+msgid "Post Comment &raquo;"
+msgstr "投稿コメント &raquo;"
+
+#: inc/core/class-theme-strings.php:54
+msgid "Cancel Reply"
+msgstr "返信をキャンセル"
+
+#: inc/core/class-theme-strings.php:53 inc/core/class-theme-strings.php:68
+msgid "Leave a Comment"
+msgstr "コメントする"
+
+#: inc/core/class-theme-strings.php:52
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは承認待ちです。"
+
+#: inc/core/class-theme-strings.php:51
+msgid "Edit"
+msgstr "編集"
+
+#: inc/core/class-theme-strings.php:50
+msgid "Reply"
+msgstr "返信"
+
+#: inc/core/class-theme-strings.php:45 inc/core/class-theme-strings.php:46
+#: inc/core/class-theme-strings.php:47
+msgid "Search &hellip;"
+msgstr "検索&hellip;"
+
+#: inc/core/class-theme-strings.php:44
+msgid "Start typing and press enter to search"
+msgstr "入力後、エンターキーで検索します"
+
+#: inc/core/class-theme-strings.php:43
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものはありませんでした。他のキーワードでもう一度お試しください。"
+
+#: inc/core/class-theme-strings.php:42
+msgid "Nothing Found"
+msgstr "見つかりませんでした"
+
+#: inc/core/class-theme-strings.php:36
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: inc/core/class-astra-theme-options.php:168
+msgid "Contact Us"
+msgstr "お問い合わせ"
+
+#: inc/core/class-astra-theme-options.php:145
+#: inc/core/class-astra-theme-options.php:147
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/compatibility/class-astra-beaver-themer.php:363
+msgid "Loop End"
+msgstr "ループ終了"
+
+#: inc/compatibility/class-astra-beaver-themer.php:362
+msgid "After Comments"
+msgstr "コメントの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:361
+msgid "Before Comments"
+msgstr "コメントの前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:360
+msgid "After Post"
+msgstr "投稿の後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:359
+msgid "After Post Content"
+msgstr "投稿コンテンツの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:358
+msgid "Before Post Content"
+msgstr "投稿コンテンツの前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:357
+msgid "Before Post"
+msgstr "投稿の前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:356
+msgid "Loop Start"
+msgstr "ループ開始"
+
+#: inc/compatibility/class-astra-beaver-themer.php:350
+msgid "After Sidebar"
+msgstr "サイドバーの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:349
+msgid "Before Sidebar"
+msgstr "サイドバーの前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:343
+msgid "After Footer"
+msgstr "フッターの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:342
+msgid "Before Footer"
+msgstr "フッターの前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:336
+msgid "After Content"
+msgstr "コンテンツの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:335
+msgid "Before Content"
+msgstr "コンテンツの前"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:81
+#: inc/compatibility/class-astra-beaver-themer.php:329
+msgid "After Header"
+msgstr "ヘッダーの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:328
+msgid "Before Header"
+msgstr "ヘッダーの前"
+
+#: inc/compatibility/class-astra-beaver-themer.php:322
+msgid "After Page"
+msgstr "ページの後"
+
+#: inc/compatibility/class-astra-beaver-themer.php:321
+msgid "Before Page"
+msgstr "ページの前"
+
+#. translators: 1: date, 2: time
+#: inc/blog/single-blog.php:171
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/blog/single-blog.php:134
+msgid "(Edit)"
+msgstr "(編集)"
+
+#: inc/blog/single-blog.php:134
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/blog/blog-config.php:298 inc/blog/blog-config.php:327
+msgid ", "
+msgstr "、"
+
+#: inc/blog/blog-config.php:186 inc/blog/blog-config.php:479
+msgid "Read More &raquo;"
+msgstr "もっと読む &raquo;"
+
+#: inc/admin-functions.php:31
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:92
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:141
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: inc/admin-functions.php:30
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:144
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: comments.php:52 comments.php:75
+msgid "Comments Navigation"
+msgstr "コメントナビゲーション"
+
+#. translators: 1: number of comments
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」に%1$s件のコメントがあります"
+
+#. Author URI of the theme
+msgid "https://wpastra.com/about/"
+msgstr "https://wpastra.com/about/"
+
+#. Theme URI of the theme
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"

@@ -1,0 +1,2508 @@
+# Translation of Themes - Astra in Finnish
+# This file is distributed under the same license as the Themes - Astra package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-20 06:43:41+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fi\n"
+"Project-Id-Version: Themes - Astra\n"
+
+#. Description of the theme
+msgid "Astra is fast, fully customizable & beautiful theme suitable for blog, personal portfolio, business website and WooCommerce storefront. It is very lightweight (less than 50KB on frontend) and offers unparalleled speed. Built with SEO in mind, Astra comes with Schema.org code integrated and is Native AMP ready so search engines will love your site. It offers special features and templates so it works perfectly with all page builders like Elementor, Beaver Builder, Visual Composer, SiteOrigin, Divi, etc. Some of the other features: # WooCommerce Ready # Responsive # RTL & Translation Ready # Extendible with premium addons # Regularly updated # Designed, Developed, Maintained & Supported by Brainstorm Force. Looking for a perfect base theme? Look no further. Astra is fast, fully customizable and WooCommerce ready theme that you can use for building any kind of website!"
+msgstr "Astra on nopea, täysin mukautettava ja upea teema, joka sopii blogien, henkilösivustojen, business-sivustojen ja WooCommerce-kauppojen alustaksi. Se on erittäin kevyt (alle 50KB) ja siksi verrattoman nopea. Astra on luotu hakukoneoptimointia silmällä pitäen. Integroitu Schema.org-koodi saa hakukoneet rakastamaan sivustoasi. Astran mukana saat erityisominaisuuksia ja malleja, joten se toimii täydellisesti sivunrakentajien, kuten Elementorin, Beaver Builderin, Visual Composerin, SiteOriginin, Divin ja muiden kanssa. Muita ominaisuuksia: # WooCommerce-yhteensopiva # Responsiivinen # RTL & käännösvalmius # Laajennettavissa maksullisilla lisäosilla # Päivitetään säännöllisesti # Suunnittelija, kehittäjä, ylläpitäjä & käytön tuki Brainstorm Force. Haetko täydellistä perusteemaa sivustollesi? Voit lopettaa etsimisen. Astra on nopea, täysin mukautettava ja Woocommerce-yhteensopiva teema, jolla voit rakentaa haluamasi verkkosivuston!"
+
+#. Theme Name of the theme
+#: inc/extras.php:525 inc/extras.php:1594
+#: inc/core/class-astra-admin-settings.php:90 inc/core/view-general.php:19
+msgid "Astra"
+msgstr "Astra"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:261
+msgid "Breadcrumb Spacing"
+msgstr "Murupolun välistys"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:246
+msgid "Center"
+msgstr "Keskitä"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:240
+msgid "Breadcrumb Alignment"
+msgstr "Murupolun tasaus"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:227
+msgid "Disable on 404 Page?"
+msgstr "Poista käytöstä 404-sivulla?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:213
+msgid "Disable on Singular?"
+msgstr "Poista käytöstä yksittäisillä?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:211
+msgid "All Pages, All Posts, All Attachments"
+msgstr "Kaikki sivut, kaikki artikkelit, kaikki liitteet"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:198
+msgid "Disable on Single Post?"
+msgstr "Poista käytöstä yksittäisissä artikkeleissa?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:184
+msgid "Disable on Single Page?"
+msgstr "Poista käytössä yksittäisellä sivulla?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:170
+msgid "Disable on Archive?"
+msgstr "Poista käytöstä arkistosivuilla?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:156
+msgid "Disable on Search?"
+msgstr "Poista käytössä haussa?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:142
+msgid "Disable on Blog / Posts Page?"
+msgstr "Poista käytössä blogi- / artikkelisivulla?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:140
+msgid "Latest Posts Page or when any page is selected as Blog Page"
+msgstr "Viimeisimmät artikkelit -sivu kun mikä tahansa sivu on valittu blogisivuksi."
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:127
+msgid "Disable on Home Page?"
+msgstr "Poista käytöstä kotisivulla?"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:114
+msgid "Breadcrumb Separator"
+msgstr "Murupolun erotin"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:83
+msgid "Before Title"
+msgstr "Ennen otsikkoa"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:81
+msgid "Inside Header"
+msgstr "Otsikkopalkin sisällä"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:75
+msgid "Breadcrumb Position"
+msgstr "Murupolun sijainti"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:95
+msgid "Breadcrumb Source"
+msgstr "Murupolun lähde"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:58
+msgid "Breadcrumb Overview"
+msgstr "Murupolun yleisnäkymä"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:101
+msgid "Separator Color"
+msgstr "Erottimen väri"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:50
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:54
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:54
+msgid "Breadcrumb"
+msgstr "Murupolku"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:921
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:893
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1322
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:892
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:948
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1318
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "F"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:891
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:920
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:947
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:974
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:1314
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:875
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:858
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:841
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:381
+msgid "Week %s"
+msgstr "Viikko %s"
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:379
+msgid "Minute %s"
+msgstr "Minuutti %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:377
+msgid "Comment Page %s"
+msgstr "Kommenttien sivu %s"
+
+#. Translators: %s is the page number.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:375
+msgid "Page %s"
+msgstr "Sivu %s"
+
+#. Translators: %s is the search query.
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:373
+msgid "Search results for: %s"
+msgstr "Hakutulokset termille: %s"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:371
+msgid "Archives"
+msgstr "Arkistot"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:370
+msgid "404 Not Found"
+msgstr "404 Ei löytynyt"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:368
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "Murupolut"
+
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:367
+msgid "Browse:"
+msgstr "Selaa:"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:99
+msgid "Latest Posts page is your site's front page when the latest posts are displayed on the home page."
+msgstr "Uusimmat artikkelit -sivua käytetään sivustosi etusivuna, kun viimeisimmät artikkelit näytetään kotisivulla."
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:98
+msgid "Disable on Latest Posts Page?"
+msgstr "Poista käytöstä Uusimmat artikkelit -sivulla?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:84
+msgid "Blog Page is when Latest Posts are selected to be displayed on a particular page."
+msgstr "Artikkelit-sivu näytetään, kun viimeisimmät artikkelit on valittu näytettäväksi tietyllä sivulla."
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:83
+msgid "Disable on Blog page?"
+msgstr "Poista käytöstä artikkelit-sivulla"
+
+#: inc/core/class-astra-admin-settings.php:294
+msgid "Details »"
+msgstr "Tiedot »"
+
+#: inc/core/class-astra-admin-settings.php:228
+msgid "Did you know Astra comes with dozens of ready-to-use <a href=\"https://wpastra.com/ready-websites/?utm_source=install-notice\">starter site templates</a>? Install the Astra Starter Sites plugin to get started."
+msgstr "Tieditkö, että Astran mukana tulee kymmeniä valmiita aloitussivustojen <a href=\"https://wpastra.com/ready-websites/?utm_source=install-notice\">starter site templates</a> malleja? Asenna Astra Starter Sites -lisäosa päästäksesi alkuun."
+
+#: inc/core/class-astra-admin-settings.php:227
+msgid "Thank you for installing Astra!"
+msgstr "Kiitos, kun asensit Astran!"
+
+#: inc/core/class-astra-admin-settings.php:199
+#: inc/core/class-astra-admin-settings.php:202
+msgid "Get Started"
+msgstr "Aloita"
+
+#: inc/class-astra-mobile-header.php:105
+msgid "Menu Toggle"
+msgstr "Valikon toggle"
+
+#: inc/core/class-astra-admin-settings.php:1371
+msgid "Plugin Successfully Deactivated"
+msgstr "Lisäosa on poistettu käytöstä"
+
+#. translators: %1s Astra Theme
+#: inc/core/class-astra-admin-settings.php:1083
+msgid "Extend %1s with free plugins!"
+msgstr "Laajenna %1s maksuttomilla lisäosilla!"
+
+#: inc/core/class-astra-admin-settings.php:389
+#: inc/core/class-astra-admin-settings.php:1253
+msgid "Deactivate"
+msgstr "Poista käytöstä"
+
+#: inc/core/class-astra-admin-settings.php:388
+#: inc/core/class-astra-admin-settings.php:1219
+#: inc/core/class-astra-admin-settings.php:1236
+msgid "Activate"
+msgstr "Ota käyttöön"
+
+#: inc/core/class-astra-admin-settings.php:387
+msgid "Deactivating"
+msgstr "Poistetaan käytöstä"
+
+#: inc/core/class-astra-admin-settings.php:386
+msgid "Activating"
+msgstr "Otetaan käyttöön"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:410
+msgid "Primary Header Button"
+msgstr "Ensisijainen otsikkopalkin painike"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:283
+msgid "Footer Widgets Top Border"
+msgstr "Alapalkin vimpainten yläreunan viiva"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:166
+msgid "Button Style"
+msgstr "Painikkeen tyyli"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:164
+msgid "Custom Button"
+msgstr "Mukautettu painike"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:145
+msgid "Button Link"
+msgstr "Painikkeen linkki"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:131
+msgid "Button Text"
+msgstr "Painikkeen teksti"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:268
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:419
+msgid "Border Hover Color"
+msgstr "Reunaviivan väri osoitettaessa"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:253
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:404
+msgid "Border Color"
+msgstr "Reunaviivan väri"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:232
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:383
+msgid "Border Size"
+msgstr "Reunaviivan koko"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:210
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:361
+msgid "Button Padding"
+msgstr "Painikkeen sisämarginaali"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:421
+msgid "Transparent Header Button"
+msgstr "Läpinäkyvä otsikkopalkin painike"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:399
+msgid "Header Button"
+msgstr "Otsikkopalkin painike"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:163
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:388
+msgid "Theme Button"
+msgstr "Teeman painike"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:219
+msgid "Content Section"
+msgstr "Sisältöalue"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:162
+msgid "Submenu"
+msgstr "Alavalikko"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:151
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:208
+msgid "Link Active / Hover Color"
+msgstr "Linkin väri aktiivisena / osoitettaessa"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:136
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:193
+msgid "Link / Text Color"
+msgstr "Linkin / tekstin väri"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:105
+msgid "Menu"
+msgstr "Valikko"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:89
+msgid "Site Title Hover Color"
+msgstr "Sivuston otsikon väri osoitettaessa"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:69
+msgid "Site Title Color"
+msgstr "Sivuston otsikon väri"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:54
+msgid "Background Overlay Color"
+msgstr "Taustan peitteen väri"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:195
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:179
+msgid "Different Logo for Transparent Header?"
+msgstr "Erillinen logo läpinäkyvää otsaketta varten?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:158
+msgid "Desktop + Mobile"
+msgstr "Desktop + Mobiili"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:157
+msgid "Mobile"
+msgstr "Mobiili"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:156
+msgid "Desktop"
+msgstr "Desktop"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:153
+msgid "Enable On"
+msgstr "Ota käyttöön näissä:"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:127
+msgid "Disable on Posts?"
+msgstr "Poista käytössä artikkeleissa?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:113
+msgid "Disable on Pages?"
+msgstr "Poista käytöstä sivuilla?"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:69
+msgid "This setting is generally not recommended on special pages such as archive, search, 404, etc. If you would like to enable it, uncheck this option"
+msgstr "Tätä asetusta ei yleensä suositella erityissivuilla kuten arkistoissa, hakusivuilla, 404-sivuilla jne. Jos haluat ottaa asetuksen käyttöön, poista merkintä tästä valintaruudusta "
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:68
+msgid "Disable on 404, Search & Archives?"
+msgstr "Poista käytöstä 404-, haku- ja arkistosivuilla"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:54
+msgid "Enable on Complete Website"
+msgstr "Ota käyttöön koko sivustolla"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:329
+msgid "Enabled"
+msgstr "Käytössä"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:57
+msgid "Disable on WooCommerce Product Pages?"
+msgstr "Poista käytöstä WooCommercen tuotesivuilla?"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-single-product-layout-configs.php:45
+msgid "Disable Product Navigation"
+msgstr "Poista tuotenavigaatio käytöstä"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:146
+msgid "Archive Content Width"
+msgstr "Arkiston sisällön leveys"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:121
+msgid "Variable Product Button Text"
+msgstr "Muunnelmatuotteen painikkeen teksti"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:106
+msgid "Options"
+msgstr "Valinnat"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:106
+#: inc/core/class-astra-theme-options.php:165
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:105
+msgid "Button"
+msgstr "Painike"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:103
+msgid "Variable Product Button"
+msgstr "Muunnelmatuotteen painike"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:89
+msgid "Cart Button Text"
+msgstr "Ostoskoripainikkeen teksti"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:69
+msgid "Image"
+msgstr "Kuva"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:67
+msgid "Product Structure"
+msgstr "Tuoterakenne"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:49
+msgid "Archive Columns"
+msgstr "Arkiston sarakkeet"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:76
+msgid "EDD Single Product"
+msgstr "EDD yksittäinen tuote"
+
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:45
+msgid "Container for Easy Digital Downloads"
+msgstr "Easy Digital Downloads -säiliö"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:43
+msgid "Product Archive"
+msgstr "Tuotearkisto"
+
+#: inc/compatibility/edd/class-astra-edd.php:635
+msgid "This sidebar will be used on EDD Single Product page."
+msgstr "Tätä sivupalkkia käytetään EDD:n yksittäisillä tuotesivuilla."
+
+#: inc/compatibility/edd/class-astra-edd.php:633
+msgid "EDD Single Product Sidebar"
+msgstr "Yksittäisen EDD-tuotteen sivupalkki"
+
+#: inc/compatibility/edd/class-astra-edd.php:619
+msgid "Easy Digital Downloads Sidebar"
+msgstr "Easy Digital Downloads -sivupalkki"
+
+#: inc/compatibility/edd/class-astra-edd.php:560
+msgid "View Details"
+msgstr "Näytä tiedot"
+
+#: inc/core/class-astra-admin-settings.php:953
+#: inc/compatibility/edd/class-astra-edd.php:224
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:57
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:36
+msgid "Easy Digital Downloads"
+msgstr "Easy Digital Downloads"
+
+#. Translators: %s is the theme name.
+#: inc/metabox/class-astra-meta-boxes.php:155
+msgid "%s Settings"
+msgstr "%s-teeman asetukset"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:98
+msgid "900 Italic"
+msgstr "900 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:96
+msgid "800 Italic"
+msgstr "800 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:94
+msgid "700 Italic"
+msgstr "700 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:92
+msgid "600 Italic"
+msgstr "600 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:90
+msgid "500 Italic"
+msgstr "500 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:88
+msgid "400 Italic"
+msgstr "400 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:86
+msgid "300 Italic"
+msgstr "300 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:84
+msgid "200 Italic"
+msgstr "200 Italic"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:82
+msgid "100 Italic"
+msgstr "100 Italic"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:79
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:223
+msgid "Font Variant"
+msgstr "Kirjasimen muunnelma"
+
+#: inc/core/class-astra-admin-settings.php:181
+msgid "I already did"
+msgstr "Tein jo"
+
+#: inc/core/class-astra-admin-settings.php:180
+msgid "Nope, maybe later"
+msgstr "Ei nyt, ehkä myöhemmin"
+
+#: inc/core/class-astra-admin-settings.php:178
+msgid "Ok, you deserve it"
+msgstr "OK, kyllä te sen ansaitsette"
+
+#: inc/core/class-astra-admin-settings.php:176
+msgid "Could you please do us a BIG favor and give it a 5-star rating on WordPress? This would boost our motivation and help other users make a comfortable decision while choosing the Astra theme."
+msgstr "Tekisitkö meille suuren  palveluksen ja antaisit sille 5 tähden arvostelun WordPressissä? Tämä innostaisi meitä ja auttaisi muita tekemään huolettoman päätöksen valitessaan Astra-teeman."
+
+#: inc/core/class-astra-admin-settings.php:175
+msgid "Hello! Seems like you have used Astra theme to build this website — Thanks a ton!"
+msgstr "Hei! Näyttää siltä, että olet käyttänyt Astra-teemaa luodessasi tämän sivuston - tuhannet kiitokset siitä! "
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:317
+msgid "Submenu Item Border Color"
+msgstr "Alavalikon kohteiden reunaviivan väri"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:347
+msgid "Fade"
+msgstr "Häivytys"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:346
+msgid "Slide Up"
+msgstr "Liuku ylös"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:345
+msgid "Slide Down"
+msgstr "Liuku alas"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:342
+msgid "Submenu Container Animation"
+msgstr "Alavalikon säiliön animointi"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:294
+msgid "Submenu Border Color"
+msgstr "Alavalikon reunaviivan väri"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:307
+msgid "Submenu Item Border"
+msgstr "Alavalikon kohteen reunaviiva"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:283
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:215
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:237
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:366
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:388
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:245
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:268
+msgid "Left"
+msgstr "Vasen"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:282
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:214
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:236
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:365
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:387
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:267
+msgid "Bottom"
+msgstr "Alareuna"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:281
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:213
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:235
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:364
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:386
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:247
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:266
+msgid "Right"
+msgstr "Oikea"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:280
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:212
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:234
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:363
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:385
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:265
+msgid "Top"
+msgstr "Yläreuna"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:278
+msgid "Submenu Container Border"
+msgstr "Alavalikon alueen reunaviiva"
+
+#: inc/core/class-astra-admin-settings.php:844
+msgid "Nav Menu"
+msgstr "Navigaatiovalikko"
+
+#. Translators: Author Name.
+#: inc/blog/blog-config.php:139
+msgid "View all posts by %1$s"
+msgstr "Näytä kaikki kirjoittajan %1$s artikkelit"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:236
+msgid "Header Bottom Border Color"
+msgstr "Otsikkopalkin alareunan viivan väri"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:216
+msgid "Header Bottom Border Size"
+msgstr "Otsikkopalkin alareunan viivan koko"
+
+#: inc/core/common-functions.php:1080
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Hae &hellip;"
+
+#: inc/core/common-functions.php:1079
+msgctxt "label"
+msgid "Search for:"
+msgstr "Hae:"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:312
+msgid "Typography Overview"
+msgstr "Typografian yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:263
+msgid "Colors & Background Overview"
+msgstr "Värien ja taustan yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:239
+msgid "Sidebar Overview"
+msgstr "Sivupalkkien yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:193
+msgid "Footer Bar Overview"
+msgstr "Alapalkin yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:136
+msgid "Primary Header Overview"
+msgstr "Ensisijaisen otsakkeen yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:108
+msgid "Site Identity Overview"
+msgstr "Sivuston identiteetin yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:67
+msgid "Container Overview"
+msgstr "Säiliön yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:61
+msgid "Site Layout Overview"
+msgstr "Sivuston asettelun yleiskatsaus"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:58
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:105
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:133
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:190
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:236
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:260
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:309
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:55
+msgid "Helpful Information"
+msgstr "Hyödyllistä tietoa"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:43
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:207
+msgid "Different Logo for retina devices?"
+msgstr "Erillinen logo retina-näytöille?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:398
+msgid "Link"
+msgstr "Linkki"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:397
+msgid "Icon"
+msgstr "Kuvake"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:394
+msgid "Dropdown Target"
+msgstr "Pudotusvalikon kohde"
+
+#: inc/core/class-astra-admin-settings.php:1423
+msgid "⚡ Lightning Fast & Fully Customizable WordPress theme!"
+msgstr "Salamannopea ja täysin mukautettava WordPress-teema!"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:86
+msgid "Mobile Logo (optional)"
+msgstr "Logo mobiilinäytöllä (valinnainen)"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:71
+msgid "Different Logo for mobile devices?"
+msgstr "Erillinen logo mobiilinäytöille?"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:529
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:283
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:434
+msgid "Border Radius"
+msgstr "Reunaviivan säde"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:515
+msgid "Toggle Button Color"
+msgstr "Vaihtuva painikkeen väri"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:503
+msgid "Minimal"
+msgstr "Minimaalinen"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:502
+msgid "Outline"
+msgstr "Ääriviiva"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:501
+msgid "Fill"
+msgstr "Täyttö"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:496
+msgid "Toggle Button Style"
+msgstr "Vaihtuva painikkeen tyyli"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:570
+msgid "More Options Available for Mobile Header in Astra Pro!"
+msgstr "Astra Pro tuo lisää vaihtoehtoja mobiilinäyttöjen otsakkeisiin!"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:462
+msgid "Take Last item in Menu outside menu"
+msgstr "Tuo valikon viimeinen kohde valikon ulkopuolelle"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:448
+msgid "Hide Last item in Menu on mobile"
+msgstr "Piilota valikon viimeinen kohde mobiilinäytöllä"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:100
+msgid "Last Item in Menu"
+msgstr "Valikon viimeinen kohde"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:50
+msgid "Header Layout"
+msgstr "Otsakkeen asettelu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:375
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:155
+msgid "Menu Breakpoint"
+msgstr "Valikon vaihtopiste"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:99
+msgid "Site Identity"
+msgstr "Sivuston identiteetti"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:360
+#: inc/core/class-astra-admin-settings.php:818
+msgid "Mobile Header"
+msgstr "Otsake mobiilinäytöllä"
+
+#: inc/core/class-astra-admin-settings.php:966
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:57
+#: inc/compatibility/learndash/customizer/class-astra-customizer-register-learndash-section.php:36
+msgid "LearnDash"
+msgstr "LearnDash"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:133
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:95
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:108
+msgid "Background"
+msgstr "Tausta"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:180
+msgid "Fixed"
+msgstr "Kiinnitetty"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:177
+msgid "Scroll"
+msgstr "Vieritä"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:171
+msgid "Background Attachment"
+msgstr "Taustan liite"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:164
+msgid "Auto"
+msgstr "Auto"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:161
+msgid "Contain"
+msgstr "Sisällytä"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:158
+msgid "Cover"
+msgstr "Kansi"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:155
+msgid "Background Size"
+msgstr "Taustan koko"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:149
+msgid "Center Bottom"
+msgstr "Keskellä alhaalla"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:148
+msgid "Center Center"
+msgstr "Keskitetty"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:147
+msgid "Center Top"
+msgstr "Keskellä ylhäällä"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:146
+msgid "Right Bottom"
+msgstr "Oikea alakulma"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:145
+msgid "Right Center"
+msgstr "Oikea keskitetty"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:144
+msgid "Right Top"
+msgstr "Oikea yläkulma"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:143
+msgid "Left Bottom"
+msgstr "Vasen alakulma"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:142
+msgid "Left Center"
+msgstr "Vasen keskitetty"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:141
+msgid "Left Top"
+msgstr "Vasen yläkulma"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:134
+msgid "Repeat Vertically"
+msgstr "Toista pystysuunnassa"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:133
+msgid "Repeat Horizontally"
+msgstr "Toista vaakasuunnassa"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:132
+msgid "Repeat All"
+msgstr "Toista kaikki"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:131
+msgid "No Repeat"
+msgstr "Ei toistoa"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:118
+msgid "Select File"
+msgstr "Valitse tiedosto"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:117
+msgid "Remove"
+msgstr "Poista"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:114
+msgid "No File Selected"
+msgstr "Tiedostoa ei ole valittu"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:109
+msgid "Background Image"
+msgstr "Taustakuva"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:72
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:122
+msgid "More Settings"
+msgstr "Lisää asetuksia"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:71
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:120
+msgid "Less Settings"
+msgstr "Vähemmän asetuksia"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:70
+msgid "No file selected"
+msgstr "Tiedostoa ei ole valittu"
+
+#: inc/core/class-astra-admin-settings.php:967
+msgid "Supercharge your LearnDash website with amazing design features."
+msgstr "Tehosta LearnDash LMS-sivustoasi upeilla suunnitteluominaisuuksilla."
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:59
+msgid "Container for LifterLMS"
+msgstr "LifterLMS:n sisältöalue"
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:58
+msgid "This layout will apply on all single course, lesson, topic and quiz."
+msgstr "Tätä asettelua käytetään kaikissa kursseissa, osioissa, aiheissa ja kyselyissä. "
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:58
+msgid "Will be applied to All Single Courses, Topics, Lessons and Quizzes. Does not work on pages created with LearnDash shortcodes."
+msgstr "Tätä käytetään kaikissa kursseissa, aiheissa, osioissa ja kyselyissä. Ei toimi sivuilla, jotka on luotu LearnDash-lyhytkoodeja käyttäen."
+
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:57
+msgid "Container for LearnDash"
+msgstr "LearnDash LMS:n sisältöalue"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:70
+msgid "Differentiate Rows"
+msgstr "Erota rivit"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:57
+msgid "Display Serial Number"
+msgstr "Näytä sarjanumero"
+
+#: inc/compatibility/learndash/customizer/sections/layout/class-astra-learndash-general-configs.php:41
+msgid "Course Content Table"
+msgstr "Kurssin sisältötaulukko"
+
+#. translators: %1$s: Astra Theme name.
+#: inc/core/class-astra-admin-settings.php:631
+msgid "%1$s Community"
+msgstr "%1$s-yhteisö"
+
+#: inc/extras.php:1641
+msgid "Astra Pro"
+msgstr "Astra Pro"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:134
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:269
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:162
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:102
+msgid "More Options Available for Typography in Astra Pro!"
+msgstr "Astra Pro tuo lisää vaihtoehtoja kirjasinten hallintaan!"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:166
+msgid "More Options Available for Container in Astra Pro!"
+msgstr "Astra Pro antaa lisää sisältöaluevaihtoehtoja!"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:169
+msgid "More Options Available for Blog in Astra Pro!"
+msgstr "Astra Pro tuo paljon lisää mahdollisuuksia blogiisi!"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:152
+msgid "More Options Available for Single Post in Astra Pro!"
+msgstr "Astra Pro tuo lisää vaihtoehtoja artikkelin esittämiseen!"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:570
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:334
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:152
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:166
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:169
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:134
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:269
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:162
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:102
+msgid "Learn More"
+msgstr "Tutustu tarkemmin"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:334
+msgid "More Options Available for Footer Widgets in Astra Pro!"
+msgstr "Astra Pro tuo lisää vaihtoehtoja alapalkin vimpaimiin!"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:44
+msgid "Theme Color"
+msgstr "Teeman väri"
+
+#: inc/customizer/astra-pro/class-astra-pro-upgrade-link-configs.php:33
+msgid "More Options Available in Astra Pro!"
+msgstr "Astra Pro tuo lisää vaihtoehtoja!"
+
+#. translators: %1$1s: Addon Name, %2$2s: Minimum Required version of the Astra
+#. Addon
+#: inc/core/class-astra-admin-settings.php:1403
+msgid "Update to the latest version of %1$2s to make changes in settings below."
+msgstr "Päivitä %1$2s uusimpaan versioon voidaksesi muuttaa alla olevia asetuksia."
+
+#: inc/core/class-astra-admin-settings.php:1333
+msgid "Plugin Successfully Activated"
+msgstr "Lisäosa on aktivoitu"
+
+#: inc/core/class-astra-admin-settings.php:1312
+#: inc/core/class-astra-admin-settings.php:1350
+msgid "No plugin specified"
+msgstr "Lisäosaa ei ole määritelty"
+
+#: inc/core/class-astra-admin-settings.php:1009
+msgid "Links to Customizer Settings:"
+msgstr "Linkit mukauttimen asetuksiin:"
+
+#: inc/core/class-astra-admin-settings.php:993
+msgid "White Label"
+msgstr "White Label"
+
+#: inc/core/class-astra-admin-settings.php:927
+msgid "Scroll To Top"
+msgstr "Vieritä ylös"
+
+#: inc/core/class-astra-admin-settings.php:901
+msgid "Site Layouts"
+msgstr "Sivuston asettelut"
+
+#: inc/core/class-astra-admin-settings.php:887
+msgid "Add content conditionally in the various hook areas of the theme."
+msgstr "Lisää sisältöä ehdollisesti teeman eri koukkualueille."
+
+#: inc/core/class-astra-admin-settings.php:885
+msgid "Custom Layouts"
+msgstr "Mukautetut asettelut"
+
+#: inc/core/class-astra-admin-settings.php:871
+msgid "Make your header layouts look more appealing and sexy!"
+msgstr "Luo vieläkin houkuttelevampia otsikkopalkin asetteluja!"
+
+#: inc/core/class-astra-admin-settings.php:870
+msgid "Page Headers"
+msgstr "Sivun otsikkopalkit"
+
+#: inc/core/class-astra-admin-settings.php:857
+msgid "Sticky Header"
+msgstr "Kelluva otsikkopalkki"
+
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:48
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:65
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:325
+msgid "Transparent Header"
+msgstr "Läpinäkyvä otsikkopalkki"
+
+#: inc/core/class-astra-admin-settings.php:831
+msgid "Header Sections"
+msgstr "Otsikkopalkin osat"
+
+#: inc/core/class-astra-admin-settings.php:805
+msgid "Blog Pro"
+msgstr "Blog Pro"
+
+#: inc/core/class-astra-admin-settings.php:792
+msgid "Spacing"
+msgstr "Väli"
+
+#: inc/core/class-astra-admin-settings.php:773
+#: inc/core/class-astra-admin-settings.php:786
+#: inc/core/class-astra-admin-settings.php:799
+#: inc/core/class-astra-admin-settings.php:812
+#: inc/core/class-astra-admin-settings.php:825
+#: inc/core/class-astra-admin-settings.php:838
+#: inc/core/class-astra-admin-settings.php:851
+#: inc/core/class-astra-admin-settings.php:864
+#: inc/core/class-astra-admin-settings.php:879
+#: inc/core/class-astra-admin-settings.php:895
+#: inc/core/class-astra-admin-settings.php:908
+#: inc/core/class-astra-admin-settings.php:921
+#: inc/core/class-astra-admin-settings.php:934
+#: inc/core/class-astra-admin-settings.php:947
+#: inc/core/class-astra-admin-settings.php:960
+#: inc/core/class-astra-admin-settings.php:974
+#: inc/core/class-astra-admin-settings.php:987
+#: inc/core/class-astra-admin-settings.php:1000
+msgid "Learn More »"
+msgstr "Tutustu tarkemmin »"
+
+#: inc/core/class-astra-admin-settings.php:755
+msgid "Sidebar Options"
+msgstr "Sivupalkin asetukset"
+
+#: inc/core/class-astra-admin-settings.php:750
+msgid "Footer Settings"
+msgstr "Alapalkin asetukset"
+
+#: inc/core/class-astra-admin-settings.php:745
+msgid "Blog Layouts"
+msgstr "Blogin asettelut"
+
+#: inc/core/class-astra-admin-settings.php:740
+msgid "Header Options"
+msgstr "Otsikkopalkin valinnat"
+
+#: inc/core/class-astra-admin-settings.php:735
+msgid "Layout Options"
+msgstr "Asettelun valinnat"
+
+#: inc/core/class-astra-admin-settings.php:730
+msgid "Customize Fonts"
+msgstr "Mukauta kirjasimet"
+
+#: inc/core/class-astra-admin-settings.php:725
+msgid "Set Colors"
+msgstr "Aseta värit"
+
+#: inc/core/class-astra-admin-settings.php:720
+msgid "Upload Logo"
+msgstr "Lataa logo"
+
+#: inc/core/class-astra-admin-settings.php:713
+msgid "More Options Available with Astra Pro!"
+msgstr "Astra Pro antaa lisää mahdollisuuksia!"
+
+#: inc/core/class-astra-admin-settings.php:692
+msgid "Submit a Ticket »"
+msgstr "Lähetä tukipyyntö »"
+
+#. translators: %1$s: Astra Theme name.
+#: inc/core/class-astra-admin-settings.php:685
+msgid "Got a question? Get in touch with %1$s developers. We're happy to help!"
+msgstr "Onko sinulla kysyttävää? Ota yhteys %1$sn ehittäjiin. Autamme mielellämme!"
+
+#: inc/core/class-astra-admin-settings.php:678
+msgid "Five Star Support"
+msgstr "Viiden tähden tuki"
+
+#: inc/core/class-astra-admin-settings.php:648
+msgid "Join Our Facebook Group »"
+msgstr "Liity Facebook-ryhmäämme »"
+
+#. translators: %1$s: Astra Theme name.
+#: inc/core/class-astra-admin-settings.php:641
+msgid "Join the community of super helpful %1$s users. Say hello, ask questions, give feedback and help each other!"
+msgstr "Liity %1$s-käyttäjien superauttavaiseen yhteisöön. Sano hei, kysy kysymyksiä, anna palautetta ja auta muita!"
+
+#: inc/core/class-astra-admin-settings.php:597
+msgid "Visit Knowledge Base »"
+msgstr "Vieraile tietopankissa »"
+
+#: inc/core/class-astra-admin-settings.php:593
+msgid "Not sure how something works? Take a peek at the knowledge base and learn."
+msgstr "Etkö ole varma siitä miten tämä toimii? Kurkista tietopankkiimme ja opi."
+
+#: inc/core/class-astra-admin-settings.php:589
+msgid "Knowledge Base"
+msgstr "Tietopankki"
+
+#: inc/core/class-astra-admin-settings.php:287
+msgid "Install Importer Plugin"
+msgstr "Asenna tuontityökalu"
+
+#: inc/core/class-astra-admin-settings.php:275
+msgid "Activate Importer Plugin"
+msgstr "Aktivoi tuontityökalu"
+
+#: inc/core/class-astra-admin-settings.php:541
+msgid "Import your favorite site one click and start your project in style!"
+msgstr "Tuo suosikkisivustosi yhdellä klikkauksella ja aloita projektisi tyylillä!"
+
+#: inc/core/class-astra-admin-settings.php:529
+msgid "Starter Site Templates?"
+msgstr "Aloitussivustomallit?"
+
+#. translators: %1$s: Starter site link.
+#: inc/core/class-astra-admin-settings.php:532
+msgid "Did you know %1$s offers a free library of %2$s "
+msgstr "Tiesitkö, että %1$s tarjoaa ilmaisen%2$s-kirjaston "
+
+#: inc/core/class-astra-admin-settings.php:522
+msgid "Import Starter Site"
+msgstr "Tuo aloitussivusto"
+
+#: inc/core/class-astra-admin-settings.php:279
+#: inc/core/class-astra-admin-settings.php:291
+#: inc/core/class-astra-admin-settings.php:299
+#: inc/core/class-astra-admin-settings.php:303
+#: inc/core/class-astra-admin-settings.php:385
+msgid "See Library »"
+msgstr "Katso kirjasto »"
+
+#: inc/core/class-astra-admin-settings.php:280
+#: inc/core/class-astra-admin-settings.php:383
+msgid "Activating Importer Plugin "
+msgstr "Aktivoidaan tuontityökalua"
+
+#: inc/core/class-astra-admin-settings.php:89
+msgid "Astra Options"
+msgstr "Astra-valinnat"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:58
+msgid "Default System Font"
+msgstr "Järjestelmän oletuskirjasin"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:113
+msgid "Container for Blog Archives"
+msgstr "Blogiarkistojen sisältöalue"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:93
+msgid "Container for Blog Posts"
+msgstr "Blogiartikkeleiden sisältöalue"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:75
+msgid "Container for Pages"
+msgstr "Sivujen sisältöalue"
+
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:45
+msgid "Container for WooCommerce"
+msgstr "WooCommercen säiliö"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:60
+msgid "Default Container"
+msgstr "Oletussisältöalue"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:48
+msgid "Course Columns"
+msgstr "Kurssin sarakkeet"
+
+#: inc/compatibility/lifterlms/customizer/sections/layout/class-astra-lifter-general-configs.php:70
+msgid "Membership Columns"
+msgstr "Jäsenyyksien sarakkeet"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:139
+msgid "Shop Archive Content Width"
+msgstr "Kaupan arkiston sisältöleveys"
+
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:76
+msgid "LifterLMS Course/Lesson"
+msgstr "LifterLMS:n kurssi/osio"
+
+#: inc/core/class-astra-admin-settings.php:980
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:57
+#: inc/compatibility/lifterlms/customizer/class-astra-liferlms-section-configs.php:35
+msgid "LifterLMS"
+msgstr "LifterLMS"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:297
+msgid "Leave Review"
+msgstr "Kirjoita arvostelu"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:293
+msgid "Review Text is required."
+msgstr "Arvostelun teksti on pakollinen."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:292
+msgid "Review Text"
+msgstr "Arviointiteksti"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:291
+msgid "Review Title is required."
+msgstr "Arvostelun otsikko on pakollinen."
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:290
+msgid "Review Title"
+msgstr "Arvostelun otsikko"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:288
+msgid "Write a Review"
+msgstr "Kirjoita arvostelu"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:282
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:301
+msgid "Thank you for your review!"
+msgstr "Kiitos arvostelustasi!"
+
+#. translators: 1 Author Name.
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:245
+msgid "By: %s"
+msgstr "Kirjoittanut %s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:216
+msgid "What Others Have Said"
+msgstr "Mitä muut ovat sanoneet"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:160
+msgid "Sidebar width will apply only when one of the above sidebar is set."
+msgstr "Sivupalkin leveyttä käytetään vain kun jokin yllä oleva sivupalkki on käytössä."
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:86
+msgid "Product Image Hover Style"
+msgstr "Tuotekuvan tyyli osoitettaessa"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:72
+msgid "Cart Page"
+msgstr "Ostoskorisivu"
+
+#: inc/core/class-astra-admin-settings.php:390
+msgid "Settings"
+msgstr "Asetukset"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:165
+msgid "Inline Logo & Site Title"
+msgstr "Logo ja sivuston otsikko samassa tasossa"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:207
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:349
+msgid "Blog"
+msgstr "Blogi"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:127
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:340
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:442
+msgid "Primary Header"
+msgstr "Ensisijainen otsikkopalkki"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:133
+msgid "Availability:"
+msgstr "Saatavuus:"
+
+#: inc/compatibility/woocommerce/woocommerce-common-functions.php:80
+msgid "Out of stock"
+msgstr "Loppu varastosta"
+
+#: inc/compatibility/edd/class-astra-edd.php:558
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:74
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:112
+msgid "Add To Cart"
+msgstr "Lisää ostoskoriin"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:73
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:111
+msgid "Short Description"
+msgstr "Lyhyt kuvaus"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:110
+msgid "Ratings"
+msgstr "Arvioinnit"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:72
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:109
+msgid "Price"
+msgstr "Hinta"
+
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:71
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:108
+msgid "Title"
+msgstr "Otsikko"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:106
+msgid "Shop Product Structure"
+msgstr "Kaupan tuotteiden rakenne"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:91
+msgid "Swap Images"
+msgstr "Vaihda kuvat"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:64
+msgid "Products Per Page"
+msgstr "Tuotetta per sivu"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:49
+msgid "Shop Columns"
+msgstr "Kaupan sarakkeet"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-single-layout-configs.php:45
+#: inc/metabox/class-astra-meta-boxes.php:314
+msgid "Disable Breadcrumb"
+msgstr "Poista murupolku käytöstä"
+
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-cart-layout-configs.php:45
+msgid "Enable Upsells"
+msgstr "Käytä upsell-tuotteita"
+
+#: inc/compatibility/edd/customizer/class-astra-customizer-register-edd-section.php:53
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:76
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:63
+msgid "Single Product"
+msgstr "Yksittäinen tuote"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:53
+msgid "Shop"
+msgstr "Kauppa"
+
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:44
+msgid "General"
+msgstr "Yleiset"
+
+#: inc/core/class-astra-admin-settings.php:940
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:57
+#: inc/compatibility/woocommerce/customizer/class-astra-customizer-register-woo-section.php:37
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/compatibility/edd/class-astra-edd.php:343
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:1001
+msgid "View your shopping cart"
+msgstr "Katso ostoskorisi"
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:412
+msgid "This sidebar will be used on Single Product page."
+msgstr "Tätä sivupalkkia käytetään yksittäisillä tuotesivuilla."
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:410
+msgid "Product Sidebar"
+msgstr "Tuotesivun sivupalkki"
+
+#: inc/compatibility/edd/class-astra-edd.php:621
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:398
+msgid "This sidebar will be used on Product archive, Cart, Checkout and My Account pages."
+msgstr "Tätä sivupalkkia käytetään tuotearkisto-, ostoskori-, kassa- ja oma tili -sivuilla."
+
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:396
+msgid "WooCommerce Sidebar"
+msgstr "WooCommerce-sivupalkki"
+
+#. translators: 1: number of products
+#: inc/compatibility/woocommerce/class-astra-woocommerce.php:212
+msgctxt "product categories"
+msgid "<mark class=\"count\">%1$s Product</mark>"
+msgid_plural "<mark class=\"count\">%1$s Products</mark>"
+msgstr[0] "<mark class=\"count\">%1$s tuote</mark>"
+msgstr[1] "<mark class=\"count\">%1$s tuotetta</mark>"
+
+#: inc/core/common-functions.php:785
+msgid "This page doesn't seem to exist."
+msgstr "Tätä sivua ei näyttäisi olevan olemassa."
+
+#: inc/core/common-functions.php:779
+#: inc/addons/breadcrumbs/class-astra-breadcrumb-trail.php:369
+msgid "Home"
+msgstr "Etusivu"
+
+#: inc/metabox/class-astra-meta-boxes.php:278
+msgid "Disable Featured Image"
+msgstr "Poista artikkelikuva käytöstä"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:105
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:240
+msgid "Logo Width"
+msgstr "Logon leveys"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:58
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:224
+msgid "Retina Logo"
+msgstr "Retina-logo"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:639
+#: inc/metabox/class-astra-meta-boxes.php:303
+msgid "Disable Footer Bar"
+msgstr "Poista alapalkki käytöstä"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:630
+#: inc/metabox/class-astra-meta-boxes.php:291
+msgid "Disable Footer Widgets"
+msgstr "Poista alatunnisteen vimpaimet käytöstä"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:172
+msgid "Paragraph Margin Bottom"
+msgstr "Tekstikappaleen alamarginaali"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:62
+msgid "Blog Post Structure"
+msgstr "Blogiartikkelin rakenne"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:65
+msgid "Title & Blog Meta"
+msgstr "Otsikko ja blogin metatiedot"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:64
+msgid "Featured Image"
+msgstr "Artikkelikuva"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:45
+msgid "Single Post Structure"
+msgstr "Yksittäisen artikkelin rakenne"
+
+#. translators: %s: Name of current post.
+#: template-parts/content.php:34
+msgid "Continue reading %s"
+msgstr "Jatka kohteen %s lukemista"
+
+#: inc/widgets.php:195
+msgid "Footer Widget Area 4"
+msgstr "Alapalkin vimpainalue 4"
+
+#: inc/widgets.php:181
+msgid "Footer Widget Area 3"
+msgstr "Alapalkin vimpainalue 3"
+
+#: inc/widgets.php:167
+msgid "Footer Widget Area 2"
+msgstr "Alapalkin vimpainalue 2"
+
+#: inc/widgets.php:153
+msgid "Footer Widget Area 1"
+msgstr "Alapalkin vimpainalue 1"
+
+#: inc/widgets.php:135
+msgid "Footer Bar Section 2"
+msgstr "Alapalkin osio 2"
+
+#: inc/widgets.php:120
+msgid "Footer Bar Section 1"
+msgstr "Alapalkin osio 1"
+
+#: inc/template-parts.php:169
+msgid "Main Menu"
+msgstr "Päävalikko"
+
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:328
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:657
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:669
+#: inc/metabox/class-astra-meta-boxes.php:225
+#: inc/metabox/class-astra-meta-boxes.php:241
+msgid "Customizer Setting"
+msgstr "Mukauttimen asetus"
+
+#: inc/extras.php:1295
+msgid "Click here to assign a widget for this area."
+msgstr "Napsauta tätä, jos haluat määrittää vimpaimen tälle alueelle."
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:190
+msgid "Headings"
+msgstr "Otsikot"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:44
+msgid "Body & Content"
+msgstr "Body ja sisältö"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:229
+msgid "Footer Bar Width"
+msgstr "Alapalkin leveys"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:188
+msgid "Footer Bar Top Border"
+msgstr "Alapalkin yläreunan reunaviiva"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:57
+msgid "Footer Bar Layout 2"
+msgstr "Alapalkin sommitelma 2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:53
+msgid "Footer Bar Layout 1"
+msgstr "Alapalkin sommitelma 1"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:46
+msgid "Footer Bar Layout"
+msgstr "Alapalkin sommitelma"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:75
+msgid "Pages"
+msgstr "Sivut"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:65
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:82
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:119
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:51
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:64
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:673
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:65
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:51
+#: inc/metabox/class-astra-meta-boxes.php:245
+msgid "Full Width / Stretched"
+msgstr "Täysi leveys / Venytetty"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:64
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:81
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:50
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:672
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:64
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:50
+#: inc/metabox/class-astra-meta-boxes.php:244
+msgid "Full Width / Contained"
+msgstr "Täysi leveys / Rajattu"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:45
+msgid "Default Layout"
+msgstr "Oletussommitelma"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:252
+msgid "Layout 4"
+msgstr "Sommitelma 4"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:248
+msgid "Disable"
+msgstr "Poista käytöstä"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:244
+msgid "Footer Widgets Layout"
+msgstr "Alapalkin vimpainten sommittelu"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:57
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:56
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:68
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:77
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:248
+msgid "Link Color"
+msgstr "Linkin väri"
+
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:42
+msgid "Widget Title Color"
+msgstr "Vimpaimen otsikon väri"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:325
+msgid "Base Typography"
+msgstr "Perustypografia"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:276
+msgid "Base Colors"
+msgstr "Perusvärit"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:183
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:284
+msgid "Footer Bar"
+msgstr "Sivun alapalkki"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:75 inc/core/class-theme-strings.php:90
+msgid "Previous %s"
+msgstr "Edellinen %s"
+
+#. translators: 1: Post type label
+#: inc/core/class-theme-strings.php:73 inc/core/class-theme-strings.php:88
+msgid "Next %s"
+msgstr "Seuraava %s"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:62
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:167
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:318
+msgid "Button Text Hover Color"
+msgstr "Painikkeen tekstin väri osoitettaessa"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:50
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:152
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:303
+msgid "Button Text Color"
+msgstr "Painikkeen tekstin väri"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:97
+msgid "Ultra-Bold 900"
+msgstr "Ultravahva 900"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:95
+msgid "Extra-Bold 800"
+msgstr "Ekstravahva 800"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:93
+msgid "Bold 700"
+msgstr "Vahva 700"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:91
+msgid "Semi-Bold 600"
+msgstr "Keskivahva 600"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:89
+msgid "Medium 500"
+msgstr "Keskivahva 500"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:87
+msgid "Normal 400"
+msgstr "Normaali 400"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:85
+msgid "Light 300"
+msgstr "Kevyt 300"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:83
+msgid "Extra-Light 200"
+msgstr "Ekstraohut 200"
+
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:81
+msgid "Thin 100"
+msgstr "Ohut 100"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:213
+msgid "Heading 6 (H6)"
+msgstr "Otsikko 6 (H6)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:181
+msgid "Heading 5 (H5)"
+msgstr "Otsikko 5 (H5)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:144
+msgid "Heading 4 (H4)"
+msgstr "Otsikko 4 (H4)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:113
+msgid "Heading 3 (H3)"
+msgstr "Otsikko 3 (H3)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:79
+msgid "Heading 2 (H2)"
+msgstr "Otsikko 2 (H2)"
+
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:44
+msgid "Heading 1 (H1)"
+msgstr "Otsikko 1 (H1)"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:79
+msgid "Archive Summary Box Title"
+msgstr "Arkiston tiivistelmäosion otsikko"
+
+#. translators: 1: link to new post
+#: template-parts/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Oletko valmis julkaisemaan ensimmäisen artikkelisi? <a href=\"%1$s\">Aloita tästä</a>."
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:174
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:293
+#: inc/core/class-astra-admin-settings.php:914
+msgid "Footer Widgets"
+msgstr "Alatunnisteen vimpaimet"
+
+#: inc/widgets.php:84
+msgid "Main Sidebar"
+msgstr "Pääsivupalkki"
+
+#. translators: %s: Name of current post
+#: template-parts/content-page.php:52
+#: template-parts/single/single-layout.php:41 inc/template-tags.php:32
+msgid "Edit %s"
+msgstr "Muokkaa %s"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:613
+#: inc/metabox/class-astra-meta-boxes.php:263
+msgid "Disable Primary Header"
+msgstr "Poista ensisijainen otsikkopalkki käytöstä"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:621
+#: inc/metabox/class-astra-meta-boxes.php:271
+msgid "Disable Title"
+msgstr "Poista otsikko käytöstä"
+
+#: inc/metabox/class-astra-meta-boxes.php:255
+msgid "Disable Sections"
+msgstr "Poista osiot käytöstä"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:645
+msgid "Astra Settings"
+msgstr "Astran asetukset"
+
+#: inc/extras.php:1258
+msgid "Add Widget"
+msgstr "Lisää vimpain"
+
+#: inc/extras.php:566
+msgid "Assign Footer Menu"
+msgstr "Määritä alapalkin valikko"
+
+#: inc/extras.php:388
+msgid "Add Custom HTML"
+msgstr "Lisää mukautettu HTML-koodi"
+
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:46
+msgid "Single Post / Page Title"
+msgstr "Yksittäisen artikkelin / sivun otsikko"
+
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:100
+msgid "Site Tagline"
+msgstr "Sivuston iskulause"
+
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:51
+msgid "Site Title"
+msgstr "Sivuston otsikko"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:151
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:142
+msgid "Line Height"
+msgstr "Rivinväli"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:116
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:260
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:107
+msgid "Lowercase"
+msgstr "Pienet kirjaimet"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:115
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:259
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:106
+msgid "Uppercase"
+msgstr "Isot kirjaimet"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:114
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:258
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:105
+msgid "Capitalize"
+msgstr "Isot alkukirjaimet"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:256
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:174
+#: inc/customizer/custom-controls/typography/class-astra-control-typography.php:79
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:103
+msgid "Inherit"
+msgstr "Peri"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:110
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:252
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:101
+msgid "Text Transform"
+msgstr "Tekstin muunnos"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:96
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:237
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:87
+msgid "Font Weight"
+msgstr "Kirjasimen vahvuus"
+
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:62
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:203
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:71
+msgid "Font Family"
+msgstr "Kirjasinperhe"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:60
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:94
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:60
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:94
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:128
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:162
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:196
+#: inc/customizer/configurations/typography/class-astra-content-typo-configs.php:230
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:130
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:74
+#: inc/customizer/configurations/typography/class-astra-header-typo-configs.php:122
+#: inc/customizer/configurations/typography/class-astra-single-typo-configs.php:62
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:121
+msgid "Font Size"
+msgstr "Kirjasimen koko"
+
+#: inc/customizer/configurations/typography/class-astra-archive-typo-configs.php:44
+msgid "Blog Post Title"
+msgstr "Blogiartikkelin otsikko"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:147
+msgid "Display Site Tagline"
+msgstr "Näytä sivuston iskulause"
+
+#: inc/customizer/configurations/layout/class-astra-site-identity-configs.php:134
+msgid "Display Site Title"
+msgstr "Näytä sivuston otsikko"
+
+#: inc/customizer/configurations/layout/class-astra-site-layout-configs.php:42
+msgid "Container Width"
+msgstr "Sisältöalueen leveys"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:144
+msgid "Sidebar Width"
+msgstr "Sivupalkin leveys"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:49
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:99
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:118
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:62
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:81
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:63
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:659
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:81
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:81
+#: inc/metabox/class-astra-meta-boxes.php:227
+msgid "Right Sidebar"
+msgstr "Oikea sivupalkki"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:48
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:61
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:80
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:658
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:80
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:80
+#: inc/metabox/class-astra-meta-boxes.php:226
+msgid "Left Sidebar"
+msgstr "Vasen sivupalkki"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:47
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:60
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:79
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:660
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:60
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:79
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:60
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:79
+#: inc/metabox/class-astra-meta-boxes.php:228
+msgid "No Sidebar"
+msgstr "Ei sivupalkkia"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:480
+msgid "Stack"
+msgstr "Pino"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:476
+msgid "Inline"
+msgstr "Samassa tasossa"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:486
+msgid "Mobile Header Alignment"
+msgstr "Otsikkopalkin tasaus mobiilinäytöllä"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:433
+msgid "Menu Label on Small Devices"
+msgstr "Valikkoteksti pienillä näytöillä"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:249
+msgid "Header Width"
+msgstr "Otsikkopalkin leveys"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:278
+msgid "Bottom Border Color"
+msgstr "Alareunan reunaviivan väri"
+
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-transparent-header-configs.php:259
+msgid "Bottom Border Size"
+msgstr "Alareunan reunaviivan koko"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:202
+msgid "Custom Menu Text / HTML"
+msgstr "Mukautettu valikkoteksti / HTML"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:36
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:107
+msgid "Text / HTML"
+msgstr "Teksti / HTML"
+
+#: inc/extras.php:356
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:35
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:105
+#: inc/core/common-functions.php:1082
+msgid "Search"
+msgstr "Hae"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:75
+msgid "Disable Menu"
+msgstr "Poista valikko käytöstä"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:63
+msgid "Logo Right"
+msgstr "Logo oikealla"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:59
+msgid "Logo Center"
+msgstr "Logo keskitetty"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:55
+msgid "Logo Left"
+msgstr "Logo vasemmalla"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:252
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:232
+msgid "Content Width"
+msgstr "Sisällön leveys"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:251
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:231
+msgid "Full Width"
+msgstr "Täysi leveys"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:208
+msgid "Footer Bar Top Border Color"
+msgstr "Alapalkin yläreunan viivan väri"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:156
+msgid "Section 2 Custom Text"
+msgstr "Osion 2 mukautettu teksti"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:136
+msgid "Section 2"
+msgstr "Osio 2"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:111
+msgid "Section 1 Custom Text"
+msgstr "Osion 1 mukautettu teksti"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:37
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:108
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:92
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:116
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:141
+msgid "Widget"
+msgstr "Vimpain"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:91
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:140
+msgid "Custom Text"
+msgstr "Mukautettu teksti"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:34
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:104
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:89
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:138
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:113
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:257
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:80
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-typo-configs.php:104
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:90
+msgid "None"
+msgstr "Ei mitään"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:87
+msgid "Section 1"
+msgstr "Osio 1"
+
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:49
+#: inc/addons/transparent-header/classes/class-astra-ext-transparent-header-markup.php:330
+msgid "Disabled"
+msgstr "Poistettu käytöstä"
+
+#: inc/customizer/custom-controls/background/class-astra-control-background.php:103
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:113
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:121
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:178
+msgid "Background Color"
+msgstr "Taustaväri"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:113
+msgid "Blog Post Archives"
+msgstr "Blogiartikkelien arkistosivut"
+
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:94
+msgid "Blog Posts"
+msgstr "Blogiartikkelit"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:63
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:80
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:117
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:49
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:62
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:671
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:63
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:49
+#: inc/metabox/class-astra-meta-boxes.php:243
+msgid "Content Boxed"
+msgstr "Kiinteä sisällön leveys"
+
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:62
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:79
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:116
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:48
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:61
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:670
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:62
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:48
+#: inc/metabox/class-astra-meta-boxes.php:242
+msgid "Boxed"
+msgstr "Kiinteälevyinen"
+
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:666
+#: inc/metabox/class-astra-meta-boxes.php:238
+msgid "Content Layout"
+msgstr "Sisällön asettelu"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:112
+msgid "Blog Content Width"
+msgstr "Blogin sisällön leveys"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:80
+msgid "Blog Meta"
+msgstr "Blogin metatiedot"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:48
+msgid "Excerpt"
+msgstr "Ote"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:47
+msgid "Full Content"
+msgstr "Koko sisältö"
+
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:41
+msgid "Blog Post Content"
+msgstr "Blogiartikkelin sisältö"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:113
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:130
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:164
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:157
+msgid "Enter Width"
+msgstr "Anna leveys"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:98
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:115
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:149
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:142
+msgid "Custom"
+msgstr "Mukautettu"
+
+#: inc/customizer/configurations/layout/class-astra-header-layout-configs.php:344
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:77
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:96
+#: inc/customizer/configurations/layout/class-astra-sidebar-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:97
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:78
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:95
+#: inc/customizer/configurations/layout/class-astra-site-container-layout-configs.php:115
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:114
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:76
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:93
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:112
+#: inc/customizer/configurations/typography/class-astra-body-typo-configs.php:220
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:36
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:148
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-container-configs.php:47
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:59
+#: inc/compatibility/edd/customizer/sections/class-astra-edd-sidebar-configs.php:78
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-sidebar-configs.php:60
+#: inc/compatibility/learndash/customizer/sections/class-astra-learndash-container-configs.php:60
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:59
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-sidebar-configs.php:78
+#: inc/compatibility/lifterlms/customizer/sections/class-astra-lifter-container-configs.php:61
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:141
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-container-configs.php:47
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:59
+#: inc/compatibility/woocommerce/customizer/sections/class-astra-woo-shop-sidebar-configs.php:78
+msgid "Default"
+msgstr "Oletus"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:95
+msgid "Single Post Content Width"
+msgstr "Yksittäisen artikkelin sisällön leveys"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:69
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:86
+msgid "Tag"
+msgstr "Avainsana"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:68
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:85
+msgid "Publish Date"
+msgstr "Julkaisupäivä"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:67
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:84
+msgid "Author"
+msgstr "Kirjoittaja"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:66
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:83
+#: inc/compatibility/edd/customizer/sections/layout/class-astra-edd-archive-layout-configs.php:70
+#: inc/compatibility/woocommerce/customizer/sections/layout/class-astra-woo-shop-layout-configs.php:113
+msgid "Category"
+msgstr "Kategoria"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:65
+#: inc/customizer/configurations/layout/class-astra-blog-layout-configs.php:82
+msgid "Comments"
+msgstr "Kommentit"
+
+#: inc/customizer/configurations/layout/class-astra-blog-single-layout-configs.php:63
+msgid "Single Post Meta"
+msgstr "Yksittäisen artikkelin metatiedot"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:83
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:68
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:81
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:89
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:263
+msgid "Link Hover Color"
+msgstr "Linkin väri osoitettaessa"
+
+#: inc/customizer/configurations/colors-background/class-astra-body-colors-configs.php:70
+#: inc/customizer/configurations/colors-background/class-astra-footer-colors-configs.php:41
+#: inc/customizer/configurations/colors-background/class-astra-advanced-footer-colors-configs.php:55
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-color-configs.php:65
+#: inc/addons/transparent-header/classes/sections/class-astra-customizer-colors-transparent-header-configs.php:234
+msgid "Text Color"
+msgstr "Tekstin väri"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:130
+msgid "Horizontal Padding"
+msgstr "Sisämarginaali vaakasuunnassa"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:113
+msgid "Vertical Padding"
+msgstr "Sisämarginaali pystysuunnassa"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:98
+msgid "Button Radius"
+msgstr "Painikkeen pyöristyssäde"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:86
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:197
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:348
+msgid "Button Background Hover Color"
+msgstr "Painikkeen taustaväri osoitettaessa"
+
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:74
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:182
+#: inc/customizer/configurations/buttons/class-astra-customizer-button-configs.php:333
+msgid "Button Background Color"
+msgstr "Painikkeen taustaväri"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:432
+msgid "Widget Areas"
+msgstr "Vimpainalueet"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:378
+msgid "Buttons"
+msgstr "Painikkeet"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:333
+msgid "Content"
+msgstr "Sisältö"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:304
+#: inc/core/class-astra-admin-settings.php:779
+msgid "Typography"
+msgstr "Typografia"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:256
+#: inc/core/class-astra-admin-settings.php:766
+msgid "Colors & Background"
+msgstr "Värit ja tausta"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:231
+#: inc/compatibility/lifterlms/class-astra-lifterlms.php:654
+#: inc/metabox/class-astra-meta-boxes.php:222
+msgid "Sidebar"
+msgstr "Sivupalkki"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:222
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:366
+msgid "Single Post"
+msgstr "Yksittäinen artikkeli"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:214
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:357
+msgid "Blog / Archive"
+msgstr "Blogi / Arkisto"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:162
+msgid "Footer"
+msgstr "Alapalkki"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:86
+#: inc/widgets.php:102
+#: inc/addons/transparent-header/classes/class-astra-transparent-header-panels-and-sections.php:58
+msgid "Header"
+msgstr "Otsikkopalkki"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:53
+msgid "Container"
+msgstr "Sisältöalue"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:45
+msgid "Site Layout"
+msgstr "Sivuston asettelu"
+
+#: inc/customizer/class-astra-customizer-register-sections-panels.php:38
+msgid "Layout"
+msgstr "Asettelu"
+
+#: inc/customizer/class-astra-customizer-sanitizes.php:277
+msgid "Enter valid email address!"
+msgstr "Anna voimassa oleva sähköpostiosoite!"
+
+#. translators: 1: search string
+#: inc/core/common-functions.php:791 inc/core/common-functions.php:883
+msgid "Search Results for: %s"
+msgstr "Hakutulokset: %s"
+
+#: inc/core/class-theme-strings.php:78
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Etsimääsi ei löytynyt. Kenties haku auttaisi?"
+
+#: inc/core/class-theme-strings.php:68 inc/core/class-theme-strings.php:85
+msgid "Previous Page"
+msgstr "Edellinen sivu"
+
+#: inc/core/class-theme-strings.php:67 inc/core/class-theme-strings.php:84
+msgid "Next Page"
+msgstr "Seuraava sivu"
+
+#: inc/core/class-theme-strings.php:66
+msgid "% Comments"
+msgstr "% kommenttia"
+
+#: inc/core/class-theme-strings.php:65
+msgid "1 Comment"
+msgstr "1 kommentti"
+
+#: inc/core/class-theme-strings.php:63
+msgid "By "
+msgstr "Kirjoittaja "
+
+#: inc/core/class-theme-strings.php:62 inc/core/class-theme-strings.php:71
+msgid "Pages:"
+msgstr "Sivut:"
+
+#: inc/core/class-theme-strings.php:59
+msgid "Older Comments"
+msgstr "Vanhemmat kommentit"
+
+#: inc/core/class-theme-strings.php:58
+msgid "Newer Comments"
+msgstr "Uudemmat kommentit"
+
+#: inc/core/class-theme-strings.php:57
+msgid "Comment navigation"
+msgstr "Kommenttien navigaatio"
+
+#: inc/core/class-theme-strings.php:56
+msgid "Comments are closed."
+msgstr "Kommentointi on suljettu."
+
+#: inc/core/class-theme-strings.php:55
+msgid "Website"
+msgstr "Kotisivun osoite"
+
+#: inc/core/class-theme-strings.php:54
+msgid "Email*"
+msgstr "Sähköpostiosoite*"
+
+#: inc/core/class-theme-strings.php:53
+msgid "Name*"
+msgstr "Nimi*"
+
+#: inc/core/class-theme-strings.php:52
+msgid "Type here.."
+msgstr "Kirjoita tähän.."
+
+#: inc/core/class-theme-strings.php:51
+msgid "Post Comment &raquo;"
+msgstr "Lähetä kommentti &raquo;"
+
+#: inc/core/class-theme-strings.php:50
+msgid "Cancel Reply"
+msgstr "Peru vastaus"
+
+#: inc/core/class-theme-strings.php:49 inc/core/class-theme-strings.php:64
+msgid "Leave a Comment"
+msgstr "Kommentoi"
+
+#: inc/core/class-theme-strings.php:48
+msgid "Your comment is awaiting moderation."
+msgstr "Kommenttisi odottaa hyväksymistä."
+
+#: inc/core/class-theme-strings.php:47
+msgid "Edit"
+msgstr "Muokkaa"
+
+#: inc/core/class-theme-strings.php:46
+msgid "Reply"
+msgstr "Vastaa"
+
+#: inc/core/class-theme-strings.php:41 inc/core/class-theme-strings.php:42
+#: inc/core/class-theme-strings.php:43
+msgid "Search &hellip;"
+msgstr "Hae &hellip;"
+
+#: inc/core/class-theme-strings.php:40
+msgid "Start typing and press enter to search"
+msgstr "Aloita kirjoittaminen ja käynnistä haku painamalla Enter"
+
+#: inc/core/class-theme-strings.php:39
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Pahoittelut, hakuehdoillasi ei löytynyt mitään. Kokeilepa jotakin toista hakutermiä."
+
+#: inc/core/class-theme-strings.php:38
+msgid "Nothing Found"
+msgstr "Hakemaasi ei löytynyt"
+
+#: inc/core/class-theme-strings.php:35
+msgid "It looks like the link pointing here was faulty. Maybe try searching?"
+msgstr "Pahoittelut! Tänne osoittava linkki taisi olla virheellinen. Kokeilisitko hakua?"
+
+#: inc/core/class-theme-strings.php:32
+msgid "Skip to content"
+msgstr "Siirry sisältöön"
+
+#: inc/core/class-astra-theme-options.php:164
+msgid "Contact Us"
+msgstr "Ota yhteyttä"
+
+#: inc/core/class-astra-theme-options.php:141
+#: inc/core/class-astra-theme-options.php:143
+msgid "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+msgstr "Copyright &copy; [current_year] [site_title] | Powered by [theme_author]"
+
+#: inc/compatibility/class-astra-beaver-themer.php:363
+msgid "Loop End"
+msgstr "Silmukan lopetus"
+
+#: inc/compatibility/class-astra-beaver-themer.php:362
+msgid "After Comments"
+msgstr "Kommenttien jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:361
+msgid "Before Comments"
+msgstr "Ennen kommentteja"
+
+#: inc/compatibility/class-astra-beaver-themer.php:360
+msgid "After Post"
+msgstr "Artikkelin jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:359
+msgid "After Post Content"
+msgstr "Artikkelin sisällön jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:358
+msgid "Before Post Content"
+msgstr "Ennen artikkelin sisältöä"
+
+#: inc/compatibility/class-astra-beaver-themer.php:357
+msgid "Before Post"
+msgstr "Ennen artikkelia"
+
+#: inc/compatibility/class-astra-beaver-themer.php:356
+msgid "Loop Start"
+msgstr "Silmukan aloitus"
+
+#: inc/compatibility/class-astra-beaver-themer.php:350
+msgid "After Sidebar"
+msgstr "Sivupalkin jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:349
+msgid "Before Sidebar"
+msgstr "Ennen sivupalkkia"
+
+#: inc/compatibility/class-astra-beaver-themer.php:343
+msgid "After Footer"
+msgstr "Alapalkin jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:342
+msgid "Before Footer"
+msgstr "Ennen alapalkkia"
+
+#: inc/compatibility/class-astra-beaver-themer.php:336
+msgid "After Content"
+msgstr "Sisällön jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:335
+msgid "Before Content"
+msgstr "Ennen sisältöä"
+
+#: inc/addons/breadcrumbs/customizer/class-astra-breadcrumbs-configs.php:82
+#: inc/compatibility/class-astra-beaver-themer.php:329
+msgid "After Header"
+msgstr "Otsikkopalkin jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:328
+msgid "Before Header"
+msgstr "Ennen otsikkopalkkia"
+
+#: inc/compatibility/class-astra-beaver-themer.php:322
+msgid "After Page"
+msgstr "Sivun jälkeen"
+
+#: inc/compatibility/class-astra-beaver-themer.php:321
+msgid "Before Page"
+msgstr "Ennen sivua"
+
+#. translators: 1: date, 2: time
+#: inc/blog/single-blog.php:161
+msgid "%1$s at %2$s"
+msgstr "%1$s klo %2$s"
+
+#: inc/blog/single-blog.php:130
+msgid "(Edit)"
+msgstr "(Muokkaa)"
+
+#: inc/blog/single-blog.php:130
+msgid "Pingback:"
+msgstr "Paluuviite:"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/blog/blog-config.php:255 inc/blog/blog-config.php:284
+msgid ", "
+msgstr ", "
+
+#: inc/blog/blog-config.php:174 inc/blog/blog-config.php:436
+msgid "Read More &raquo;"
+msgstr "Lue lisää &raquo;"
+
+#: inc/admin-functions.php:27
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:90
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:114
+#: inc/customizer/configurations/layout/class-astra-footer-layout-configs.php:139
+msgid "Footer Menu"
+msgstr "Alatunnisteen valikko"
+
+#: inc/admin-functions.php:26
+msgid "Primary Menu"
+msgstr "Ensisijainen valikko"
+
+#: comments.php:48 comments.php:71
+msgid "Comments Navigation"
+msgstr "Kommenttien navigaatio"
+
+#. translators: 1: number of comments
+#: comments.php:36
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s ajatus aiheesta &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s ajatusta aiheesta &ldquo;%2$s&rdquo;"
+
+#. Author URI of the theme
+msgid "https://wpastra.com/about/"
+msgstr "https://wpastra.com/about/"
+
+#. Theme URI of the theme
+msgid "https://wpastra.com/"
+msgstr "https://wpastra.com/"
+
+#. Author of the theme
+msgid "Brainstorm Force"
+msgstr "Brainstorm Force"

@@ -1,0 +1,440 @@
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 02:28:22
+* VERSION: 1.3.22
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.3.9                                 |7.0.10
+OS__________________: WINNT                                 |WINNT
+CREATED_____________: 2019-10-01 02:23:34
+WP VERSION__________: 5.2.3
+DUP VERSION_________: 1.3.22
+DB__________________: 5.5.51
+DB TABLES___________: 13
+DB ROWS_____________: 673
+DB FILE SIZE________: 1.63MB
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.0.10 | SAPI: apache2handler
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.23 (Win64) PHP/7.0.10
+DOC ROOT____________: "C:/wamp64/www/PanAsianRecovery"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://localhost/PanAsianRecovery/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchive"
+SET DIR PERMS_______: 0
+DIR PERMS VALUE_____: 644
+SET FILE PERMS______: 0
+FILE PERMS VALUE____: 755
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+CONFIG MODE_________: "NEW"
+FILE TIME___________: "current"
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "20191001_panasianrecoveryalliance_46d0699a6167fa589772_20191001022334_archive.zip"
+SIZE________________: 39.81MB
+
+PRE-EXTRACT-CHECKS
+- PASS: Apache '.htaccess' not found - no backup needed.
+- PASS: Microsoft IIS 'web.config' not found - no backup needed.
+- PASS: WordFence '.user.ini' not found - no backup needed.
+
+
+START ZIP FILE EXTRACTION STANDARD >>> 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 4800
+    [filename] => C:\wamp64\www\PanAsianRecovery\20191001_panasianrecoveryalliance_46d0699a6167fa589772_20191001022334_archive.zip
+    [comment] => 
+)
+File timestamp set to Current: 2019-10-01 02:28:35
+<<< ZipArchive Unzip Complete: true
+--------------------------------------
+POST-EXTACT-CHECKS
+--------------------------------------
+
+PERMISSION UPDATES: None Applied
+- PASS: Existing WordFence '.user.ini' was removed
+
+STEP-1 COMPLETE @ 02:28:35 - RUNTIME: 12.2637 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR-LITE INSTALL-LOG
+* STEP-2 START @ 02:29:28
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.7.14 -- Build Server: 5.5.51
+FILE SIZE:	dup-database__46d0699-01022334.sql (560.69KB)
+TIMEOUT:	5000
+MAXPACK:	16777216
+SQLMODE:	ONLY_FULL_GROUP_BY,STRICT_TRANS_TABLES,NO_ZERO_IN_DATE,NO_ZERO_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+NEW SQL FILE:	[C:/wamp64/www/PanAsianRecovery/dup-installer/dup-installer-data__46d0699-01022334.sql]
+COLLATE FB:	Off
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	306
+
+wp_commentmeta: (3)
+wp_comments: (2)
+wp_duplicator_packages: (0)
+wp_links: (0)
+wp_options: (158)
+wp_postmeta: (53)
+wp_posts: (16)
+wp_term_relationships: (2)
+wp_term_taxonomy: (1)
+wp_termmeta: (0)
+wp_terms: (1)
+wp_usermeta: (20)
+wp_users: (1)
+Removed '33' cache/transient rows
+
+INSERT DATA RUNTIME: 1.0385 sec.
+STEP-2 COMPLETE @ 02:29:29 - RUNTIME: 1.0634 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+htaccess ark file don' exists
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 02:29:36
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "Pan-Asian Recovery Alliance"
+postguid______________: false
+fullsearch____________: false
+path_old______________: "G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/"
+path_new______________: "C:/wamp64/www/PanAsianRecovery/"
+siteurl_______________: "http://localhost/PanAsianRecovery"
+url_old_______________: "http://www.pan-asianrecovery.org"
+url_new_______________: "http://localhost/PanAsianRecovery"
+maxSerializeStrlen____: 4000000
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "root"
+dbname________________: "PARA"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+cache_wp______________: false
+cache_path____________: false
+exe_safe_mode_________: false
+config_mode___________: "NEW"
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wp_commentmeta"__________________________________[ROWS:     3][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_comments"_____________________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_duplicator_packages"__________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_links"________________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_options"______________________________________[ROWS:   158][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_postmeta"_____________________________________[ROWS:    53][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_posts"________________________________________[ROWS:    16][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_term_relationships"___________________________[ROWS:     2][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_term_taxonomy"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_termmeta"_____________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wp_terms"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_usermeta"_____________________________________[ROWS:    20][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+
+EVALUATE TABLE: "wp_users"________________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"G:/PleskVhosts/kabacrush.com/pan-asianrecovery.org/" => "C:/wamp64/www/PanAsianRecovery/"
+	SEARCH  2:"G:\/PleskVhosts\/kabacrush.com\/pan-asianrecovery.org\/" => "C:\/wamp64\/www\/PanAsianRecovery\/"
+	SEARCH  3:"G%3A%2FPleskVhosts%2Fkabacrush.com%2Fpan-asianrecovery.org%2F" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery%2F"
+	SEARCH  4:"G:\PleskVhosts\kabacrush.com\pan-asianrecovery.org" => "C:/wamp64/www/PanAsianRecovery"
+	SEARCH  5:"G:\\PleskVhosts\\kabacrush.com\\pan-asianrecovery.org" => "C:\/wamp64\/www\/PanAsianRecovery"
+	SEARCH  6:"G%3A%5CPleskVhosts%5Ckabacrush.com%5Cpan-asianrecovery.org" => "C%3A%2Fwamp64%2Fwww%2FPanAsianRecovery"
+	SEARCH  7:"//www.pan-asianrecovery.org" =====================> "//localhost/PanAsianRecovery"
+	SEARCH  8:"\/\/www.pan-asianrecovery.org" ===================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH  9:"%2F%2Fwww.pan-asianrecovery.org" =================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 10:"//pan-asianrecovery.org" =========================> "//localhost/PanAsianRecovery"
+	SEARCH 11:"\/\/pan-asianrecovery.org" =======================> "\/\/localhost\/PanAsianRecovery"
+	SEARCH 12:"%2F%2Fpan-asianrecovery.org" =====================> "%2F%2Flocalhost%2FPanAsianRecovery"
+	SEARCH 13:"https://localhost/PanAsianRecovery" ==============> "http://localhost/PanAsianRecovery"
+	SEARCH 14:"https:\/\/localhost\/PanAsianRecovery" ===========> "http:\/\/localhost\/PanAsianRecovery"
+	SEARCH 15:"https%3A%2F%2Flocalhost%2FPanAsianRecovery" ======> "http%3A%2F%2Flocalhost%2FPanAsianRecovery"
+--------------------------------------
+SCANNED:	Tables:13 	|	 Rows:257 	|	 Cells:1360 
+UPDATED:	Tables:4 	|	 Rows:24 	|	 Cells:29 
+ERRORS:		0 
+RUNTIME:	0.184300 sec
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	REMOVED WP_ALLOW_MULTISITE
+	UPDATE DB_NAME ""PARA""
+	UPDATE DB_USER ""root""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	REMOVE WPCACHEHOME
+	
+*** UPDATED WP CONFIG FILE ***
+
+====================================
+HTACCESS UPDATE MODE: "NEW"
+====================================
+- PASS: Existing Microsoft IIS 'web.config.orig' was removed
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+
+====================================
+DEACTIVATE PLUGINS CHECK
+====================================
+Activated plugins (If they are activated) listed here will be deactivated: Array
+(
+    [0] => really-simple-ssl/rlrsssl-really-simple-ssl.php
+    [1] => simple-google-recaptcha/simple-google-recaptcha.php
+    [2] => js_composer/js_composer.php
+)
+
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+[PHP ERR][WARN] MSG:file_get_contents(C:/wamp64/www/PanAsianRecovery/dup-installer/dup-orig-htaccess__46d0699-01022334.txt): failed to open stream: No such file or directory [CODE:2|FILE:C:\wamp64\www\PanAsianRecovery\dup-installer\classes\class.s3.func.php|LINE:1235]
+[PHP ERR][WARN] MSG:file_get_contents(C:/wamp64/www/PanAsianRecovery/.htaccess): failed to open stream: No such file or directory [CODE:2|FILE:C:\wamp64\www\PanAsianRecovery\dup-installer\classes\class.s3.func.php|LINE:1236]
+
+STEP-3 COMPLETE @ 02:29:37 - RUNTIME: 0.3430 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
