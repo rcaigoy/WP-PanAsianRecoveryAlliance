@@ -2,38 +2,37 @@
 .Hook {
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: space-evenly;
 
 }
 
 .Hook-Content {
   display: flex;
   flex-direction: column;
-  align-items: flex-end;
-  width: 60%
+  align-items: flex-start;
+  justify-items: center;
+  margin-left:  100px;
+  margin-right: 50px;
 }
 
 .Hook-Title-Container {
-width: 60%;
 }
 
 .Hook-Title {
   line-height: 1em;
    font-size: 40px;
-   width: 60%;
    align-self: center;
 }
 
 .Hook-Body {
-  width: 60%;
   margin-top: 20px;
   font-size: 24px;
 }
 
 .Lotus-Image {
-  width: 500px;
-  height: 352px;
-  margin: 100px;
+  width: 40%;
+  /* height: 352px; */
+  margin: 100px 100px 100px 0;
   align-self: flex-end;
 }
 
@@ -50,4 +49,10 @@ width: 60%;
   text-decoration: none;
   color: pink;
   align-self: flex-start;
+}
+
+@media(max-width: 1400px){
+  .Body-Content {
+    width: 90%;
+  }
 }
