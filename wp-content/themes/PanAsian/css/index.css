@@ -36,3 +36,18 @@ width: 60%;
   margin: 100px;
   align-self: flex-end;
 }
+
+.Anna {
+  margin: 0 auto;
+  font-size: 36px;
+  text-decoration: none;
+  color: black;
+}
+
+.Anna:hover{
+  margin: 0 auto;
+  font-size: 36px;
+  text-decoration: none;
+  color: pink;
+  align-self: flex-start;
+}

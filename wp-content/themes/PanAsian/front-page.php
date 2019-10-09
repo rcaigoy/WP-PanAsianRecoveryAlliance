@@ -6,7 +6,7 @@
 <link rel="stylesheet"
 	type="text/css"
 	href="<?php echo get_template_directory_uri(); ?>/css/index.css"
-	/>
+/>
 
 <div class="Body-Content">
 
@@ -45,6 +45,9 @@
 				class="Lotus-Image"  />
 	</section>
 
+	<a href="<?php echo get_site_url(); ?>/stories/my-story" class="Anna">
+		See Anna's Story ->
+	</a>
 
 </div>
 <!-- end of Body-Content -->

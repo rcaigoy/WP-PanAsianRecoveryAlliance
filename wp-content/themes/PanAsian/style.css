@@ -68,12 +68,16 @@
 /*** START INDEX.PHP CSS ***/
 body {
 	background-color: #3b4652;
+		min-height: 100%;
 }
 
 .Body-Content {
 	width: 80%;
 	margin: 0 auto;
 	background: white;
+	min-height: 850px;
+	display: flex;
+flex-direction: column;
 }
 
 .Page-Title-Container {

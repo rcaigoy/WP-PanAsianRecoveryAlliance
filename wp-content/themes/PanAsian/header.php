@@ -9,10 +9,10 @@
 	<body>
 		<header>
 			<div class="Menu">
-				<a href="#" class="Logo">Pan Asian Recovery Alliance</a>
+				<a href="<?php echo get_site_url(); ?>" class="Logo">Pan Asian Recovery Alliance</a>
 				<nav class="Menu-Navigation">
-					<a href="#" class="Menu-Link">Home</a>
-					<a href="#" class="Menu-Link">Gallery</a>
+					<a href="<?php echo get_site_url(); ?>" class="Menu-Link">Home</a>
+					<a href="<?php echo get_site_url(); ?>/stories" class="Menu-Link">Stories</a>
 					<a href="#" class="Menu-Link">Contact</a>
 					<a
 						href="<?php echo get_site_url(); ?>/Blogs"
