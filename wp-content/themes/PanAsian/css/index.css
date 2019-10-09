@@ -50,9 +50,3 @@
   color: pink;
   align-self: flex-start;
 }
-
-@media(max-width: 1400px){
-  .Body-Content {
-    width: 90%;
-  }
-}
