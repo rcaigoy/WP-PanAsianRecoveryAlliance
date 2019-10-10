@@ -44,7 +44,7 @@
 		<img src="<?php echo get_template_directory_uri() ?>/images/lotus-flower.jpg"
 				class="Lotus-Image"  />
 	</section>
-
+	<br />
 	<a href="<?php echo get_site_url(); ?>/stories/my-story" class="Anna">
 		See Anna's Story ->
 	</a>

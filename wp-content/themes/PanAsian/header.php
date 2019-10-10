@@ -13,11 +13,7 @@
 				<nav class="Menu-Navigation">
 					<a href="<?php echo get_site_url(); ?>" class="Menu-Link">Home</a>
 					<a href="<?php echo get_site_url(); ?>/stories" class="Menu-Link">Stories</a>
-					<a href="#" class="Menu-Link">Contact</a>
-					<a
-						href="<?php echo get_site_url(); ?>/Blogs"
-						class="Menu-Link">Blogs
-				 	</a>
+					<a href="<?php echo get_site_url(); ?>/Contact" class="Menu-Link">Contact</a>
 
 				</nav>
 			</div>

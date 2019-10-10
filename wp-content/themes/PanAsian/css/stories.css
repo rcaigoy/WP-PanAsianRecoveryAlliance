@@ -1,7 +1,7 @@
 
 .Stories {
   margin: 0 auto;
-  width: 60%;
+  width: 70%;
 }
 
 .Story-Content {
@@ -31,4 +31,16 @@
 .Story-Body {
   margin-top: 20px;
   font-size: 24px;
+}
+
+@media(max-width: 1200px){
+  .Stories{
+    width:80%;
+  }
+}
+
+@media(max-width: 600px){
+  .Stories{
+    width:100%;
+  }
 }

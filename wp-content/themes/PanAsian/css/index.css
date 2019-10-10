@@ -13,6 +13,7 @@
   justify-items: center;
   margin-left:  100px;
   margin-right: 50px;
+  max-width: 550px;
 }
 
 .Hook-Title-Container {
@@ -49,4 +50,28 @@
   text-decoration: none;
   color: pink;
   align-self: flex-start;
+}
+
+
+@media(max-width: 1400px){
+  .Hook-Content{
+    margin-left: 50px;
+  }
+}
+
+@media(max-width: 1000px){
+  .Hook{
+    flex-direction: column-reverse;
+    align-items: flex-end;
+  }
+
+  .Lotus-Image{
+    align-self: center;
+    width: 65%;
+    margin: 20px;
+  }
+}
+
+@media(max-width: 700px){
+
 }
