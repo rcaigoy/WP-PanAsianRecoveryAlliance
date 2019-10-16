@@ -29,7 +29,7 @@ if(have_posts()) : while(have_posts()) : the_post();
 <?php
     the_title();
 ?>
-</a>
+
 
 <div class="Story-Body">
 <?php
@@ -42,7 +42,11 @@ if(have_posts()) : while(have_posts()) : the_post();
       }
 
 ?>
+<br />
+Read More...
 </div>
+</a>
+<hr />
 <!-- END of Story-Body-->
 
 </div>

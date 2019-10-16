@@ -24,8 +24,8 @@
         resilience, please email me at
 
         <a href="mailto://panasianrecovery@gmail.com" >
-        panasianrecovery@gmail.com
-      </a>
+          panasianrecovery@gmail.com
+        </a>
 
         and I would be happy to put it on this blog.
       </div>
